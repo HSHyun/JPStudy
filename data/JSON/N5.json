@@ -96,7 +96,8 @@
         "example_jp": "新しい家に住む。",
         "example_ko": "새집에 살다.",
         "extra_json": {
-            "antonym_text": "古い 낡다"
+            "antonym_word": "古い",
+            "antonym_meaning": "낡다"
         },
         "raw_ocr": "新しい 새롭다 - 古い 낡다. 오래 되다 新しい家に住む。 새집에 살다. あたらしい"
     },
@@ -3030,7 +3031,7 @@
         "section": "조수사",
         "entry_type": "counter",
         "jp": "一、二、三...",
-        "kana": null,
+        "kana": "いち/に/さん/...",
         "meaning": "숫자 세는 법",
         "example_jp": null,
         "example_ko": null,
@@ -4418,7 +4419,8 @@
         "example_jp": "部屋が明るい。",
         "example_ko": "방이 밝다.",
         "extra_json": {
-            "antonym_text": "暗い 어둡다"
+            "antonym_word": "暗い",
+            "antonym_meaning": "어둡다"
         },
         "raw_ocr": "明るい 밝다. 명랑하다 - 暗い 어둡다 部屋が明るい。 방이 밝다. あかるい"
     },
@@ -4442,7 +4444,8 @@
         "example_jp": "新しい家に住む。",
         "example_ko": "새집에 살다.",
         "extra_json": {
-            "antonym_text": "古い 낡다"
+            "antonym_word": "古い",
+            "antonym_meaning": "낡다"
         },
         "raw_ocr": "新しい 새롭다 - 古い 낡다. 오래 되다 新しい家に住む。 새집에 살다. あたらしい"
     },
@@ -4455,7 +4458,8 @@
         "example_jp": "今年の夏は暑い。",
         "example_ko": "올해 여름은 덥다.",
         "extra_json": {
-            "antonym_text": "寒い 춥다"
+            "antonym_word": "寒い",
+            "antonym_meaning": "춥다"
         },
         "raw_ocr": "暑い 덥다 - 寒い 춥다 今年の夏は暑い。 금년여름은 덥다. あつい"
     },
@@ -4490,7 +4494,8 @@
         "example_jp": "天気がいい。",
         "example_ko": "날씨가 좋다.",
         "extra_json": {
-            "antonym_text": "悪い 나쁘다"
+            "antonym_word": "悪い",
+            "antonym_meaning": "나쁘다"
         },
         "raw_ocr": "いいよい 좋다 - 悪い 나쁘다 天気がいい。 날씨가 좋다."
     },
@@ -4503,7 +4508,8 @@
         "example_jp": "仕事で忙しい。",
         "example_ko": "업무로 바쁘다.",
         "extra_json": {
-            "antonym_text": "ひまだ 한가하다"
+            "antonym_word": "ひまだ",
+            "antonym_meaning": "한가하다"
         },
         "raw_ocr": "忙しい 바쁘다 - ひまだ 한가롭다 仕事で忙しい。 업무로 바쁘다. いそがしい"
     },
@@ -4527,7 +4533,8 @@
         "example_jp": "肉を薄く切る。",
         "example_ko": "고기를 얇게 자르다.",
         "extra_json": {
-            "antonym_text": "厚い 두껍다"
+            "antonym_word": "厚い",
+            "antonym_meaning": "두껍다"
         },
         "raw_ocr": "薄い 얇다 - 厚い 두껍다 肉を薄く切る。 고기를 얇게 자르다. うすい"
     },
@@ -4540,7 +4547,8 @@
         "example_jp": "電車の音がうるさい。",
         "example_ko": "전차 소리가 시끄럽다.",
         "extra_json": {
-            "antonym_text": "静かだ 조용하다"
+            "antonym_word": "静かだ",
+            "antonym_meaning": "조용하다"
         },
         "raw_ocr": "うるさい 시끄럽다 - 静かだ 조용하다 電車の音がうるさい 전차 소리가 시끄럽다."
     },
@@ -4553,7 +4561,8 @@
         "example_jp": "この料理はおいしい。",
         "example_ko": "이 요리는 맛있다.",
         "extra_json": {
-            "antonym_text": "まずい 맛없다"
+            "antonym_word": "まずい",
+            "antonym_meaning": "맛없다"
         },
         "raw_ocr": "おいしい 맛있다 - まずい 맛없다 この料理はおいしい 이 요리는 맛있다."
     },
@@ -4566,7 +4575,8 @@
         "example_jp": "夏は雨が多い。",
         "example_ko": "여름은 비가 많다.",
         "extra_json": {
-            "antonym_text": "少ない 적다"
+            "antonym_word": "少ない",
+            "antonym_meaning": "적다"
         },
         "raw_ocr": "多い 많다 - 少ない 적다 夏は雨が多い。 여름은 비가 많다. おおい"
     },
@@ -4579,7 +4589,8 @@
         "example_jp": "字を大きく書く。",
         "example_ko": "글씨를 크게 쓰다.",
         "extra_json": {
-            "antonym_text": "小さい 작다"
+            "antonym_word": "小さい",
+            "antonym_meaning": "작다"
         },
         "raw_ocr": "大きい 크다 - 小さい 작다 字を大きく書く。 글씨를 크게 쓰다. おおきい"
     },
@@ -4592,7 +4603,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": {
-            "antonym_text": "早い 이르다"
+            "antonym_word": "早い",
+            "antonym_meaning": "이르다"
         },
         "raw_ocr": "遅い 늦다 - 早い(시간) 이르다 おそい"
     },
@@ -4605,7 +4617,8 @@
         "example_jp": "食べるのが遅い。",
         "example_ko": "먹는 것이 느리다.",
         "extra_json": {
-            "antonym_text": "速い 빠르다"
+            "antonym_word": "速い",
+            "antonym_meaning": "빠르다"
         },
         "raw_ocr": "遅い 느리다 - 速い(속도) 빠르다 食べるのが遅い。 먹는 것이 느리다. おそい"
     },
@@ -4618,7 +4631,8 @@
         "example_jp": "このかばんは重い。",
         "example_ko": "이 가방은 무겁다.",
         "extra_json": {
-            "antonym_text": "軽い 가볍다"
+            "antonym_word": "軽い",
+            "antonym_meaning": "가볍다"
         },
         "raw_ocr": "重い 무겁다 - 軽い 가볍다 このかばんは重い。 이 가방은 무겁다. おもい"
     },
@@ -4631,7 +4645,8 @@
         "example_jp": "昨日見た映画はおもしろかった。",
         "example_ko": "어제 본 영화는 재미있었다.",
         "extra_json": {
-            "antonym_text": "つまらない 지루하다"
+            "antonym_word": "つまらない",
+            "antonym_meaning": "지루하다"
         },
         "raw_ocr": "おもしろい 재미있다 - つまらない 지루하다 昨日見た映画はおもしろかった。 어제 본 영화는 재미있었다."
     },
@@ -4688,7 +4703,8 @@
         "example_jp": "部屋が汚い。",
         "example_ko": "방이 지저분하다.",
         "extra_json": {
-            "antonym_text": "きれいだ 깨끗하다"
+            "antonym_word": "きれいだ",
+            "antonym_meaning": "깨끗하다"
         },
         "raw_ocr": "汚い 더렵다. 지저분하다 - きれいだ 깨끗하다 部屋が汚い。 방이 지저분하다 きたない"
     },
@@ -4701,7 +4717,8 @@
         "example_jp": "部屋の中は暗い。",
         "example_ko": "방 안은 어둡다.",
         "extra_json": {
-            "antonym_text": "明るい 밝다"
+            "antonym_word": "明るい",
+            "antonym_meaning": "밝다"
         },
         "raw_ocr": "暗い 어둡다 - 明るい 밝다 くらい"
     },
@@ -4725,7 +4742,8 @@
         "example_jp": "冬は寒い。",
         "example_ko": "겨울은 춥다.",
         "extra_json": {
-            "antonym_text": "暑い 덥다"
+            "antonym_word": "暑い",
+            "antonym_meaning": "덥다"
         },
         "raw_ocr": "寒い 춥다 - 暑い 덥다 冬は寒い。 겨울은 춥다. さむい"
     },
@@ -4749,7 +4767,8 @@
         "example_jp": "この会社は休みが少ない。",
         "example_ko": "이 회사는 휴일이 적다.",
         "extra_json": {
-            "antonym_text": "多い 많다"
+            "antonym_word": "多い",
+            "antonym_meaning": "많다"
         },
         "raw_ocr": "少ない 적다 - 多い 많다 この会社は休みが少ない。 이 회사는 휴일이 적다. すくない"
     },
@@ -4762,7 +4781,8 @@
         "example_jp": "わたしの部屋は狭い。",
         "example_ko": "내 방은 좁다.",
         "extra_json": {
-            "antonym_text": "広い 넓다"
+            "antonym_word": "広い",
+            "antonym_meaning": "넓다"
         },
         "raw_ocr": "狭い 좁다 - 広い 넓다 わたしの部屋は狭い。 내 방은 좁다. せまい"
     },
@@ -4775,7 +4795,8 @@
         "example_jp": "あの山は高い。",
         "example_ko": "저 산은 높다.",
         "extra_json": {
-            "antonym_text": "低い 낮다"
+            "antonym_word": "低い",
+            "antonym_meaning": "낮다"
         },
         "raw_ocr": "高い 높다 - 低い 낮다 あの山は高い。 저 산은 높다. たかい"
     },
@@ -4788,7 +4809,8 @@
         "example_jp": "このかばんは高い。",
         "example_ko": "이 가방은 비싸다.",
         "extra_json": {
-            "antonym_text": "安い 싸다"
+            "antonym_word": "安い",
+            "antonym_meaning": "싸다"
         },
         "raw_ocr": "高い 비싸다 - 安い 싸다 このかばんは高い。 이 가방은 비싸다. たかい"
     },
@@ -4812,7 +4834,8 @@
         "example_jp": "小さい声で話す。",
         "example_ko": "작은 목소리로 이야기하다.",
         "extra_json": {
-            "antonym_text": "大きい 크다"
+            "antonym_word": "大きい",
+            "antonym_meaning": "크다"
         },
         "raw_ocr": "小さい 작다 - 大きい 크다 小さい声で話す。 작은 목소리로 이야기하다. ちいさい"
     },
@@ -4825,7 +4848,8 @@
         "example_jp": "会社は駅から近い。",
         "example_ko": "회사는 역에서 가깝다.",
         "extra_json": {
-            "antonym_text": "遠い 멀다"
+            "antonym_word": "遠い",
+            "antonym_meaning": "멀다"
         },
         "raw_ocr": "近い 가깝다 - 遠い 멀다 会社は駅から近い。 회사는 역에서 가깝다. ちかい"
     },
@@ -4849,7 +4873,8 @@
         "example_jp": "今日は風が強い。",
         "example_ko": "오늘은 바람이 강하다.",
         "extra_json": {
-            "antonym_text": "弱い 약하다"
+            "antonym_word": "弱い",
+            "antonym_meaning": "약하다"
         },
         "raw_ocr": "強い 강하다 - 弱い 약하다 今日は風が強い。 오늘 바람이 강하다. つよい"
     },
@@ -4862,7 +4887,8 @@
         "example_jp": "学校は家から遠い。",
         "example_ko": "학교는 집에서 멀다.",
         "extra_json": {
-            "antonym_text": "近い 가깝다"
+            "antonym_word": "近い",
+            "antonym_meaning": "가깝다"
         },
         "raw_ocr": "遠い 멀다 - 近い 가깝다 学校は家から遠い。 학교는 집에서 멀다. とおい"
     },
@@ -4886,7 +4912,8 @@
         "example_jp": "電話で長く話す。",
         "example_ko": "전화로 길게 이야기하다.",
         "extra_json": {
-            "antonym_text": "短い 짧다"
+            "antonym_word": "短い",
+            "antonym_meaning": "짧다"
         },
         "raw_ocr": "長い 길다 - 短い 짧다 電話で長く話す。 전화로 길게 이야기하다. ながい"
     },
@@ -4921,7 +4948,8 @@
         "example_jp": "田中さんは背が低い。",
         "example_ko": "다나카 씨는 키가 작다.",
         "extra_json": {
-            "antonym_text": "高い 높다"
+            "antonym_word": "高い",
+            "antonym_meaning": "높다"
         },
         "raw_ocr": "低い 낮다 - 高い 높다 田中さんは背が低い。 다나카 씨는 키가 작다. ひくい"
     },
@@ -4934,7 +4962,8 @@
         "example_jp": "家の前に広い公園がある。",
         "example_ko": "집 앞에 넓은 공원이 있다.",
         "extra_json": {
-            "antonym_text": "狭い 좁다"
+            "antonym_word": "狭い",
+            "antonym_meaning": "좁다"
         },
         "raw_ocr": "広い 넓다 - 狭い 좁다 家の前に広い公園がある。 집 앞에 넓은 공원이 있다. ひろい"
     },
@@ -4947,7 +4976,8 @@
         "example_jp": "かばんが古くなる。",
         "example_ko": "가방이 낡아지다.",
         "extra_json": {
-            "antonym_text": "新しい 새롭다"
+            "antonym_word": "新しい",
+            "antonym_meaning": "새롭다"
         },
         "raw_ocr": "古い 낡다. 오래되다 - 新しい 새롭다 かばんが古くなる。 가방이 낡아지다. ふるい"
     },
@@ -4960,7 +4990,8 @@
         "example_jp": "まずくて食べたくない。",
         "example_ko": "맛이 없어서 먹고 싶지 않다.",
         "extra_json": {
-            "antonym_text": "おいしい 맛있다"
+            "antonym_word": "おいしい",
+            "antonym_meaning": "맛있다"
         },
         "raw_ocr": "まずい 맛이 없다 - おいしい 맛있다 まずくて食べたくない。 맛이 없어서 먹고 싶지 않다. まずい"
     },
@@ -4984,7 +5015,8 @@
         "example_jp": "髪を短く切る。",
         "example_ko": "머리카락을 짧게 자르다.",
         "extra_json": {
-            "antonym_text": "長い 길다"
+            "antonym_word": "長い",
+            "antonym_meaning": "길다"
         },
         "raw_ocr": "短い 짧다 - 長い 길다 髪を短く切る。 머리카락을 짧게 자르다. みじかい"
     },
@@ -4997,7 +5029,8 @@
         "example_jp": "難しい漢字を書く。",
         "example_ko": "어려운 한자를 쓰다.",
         "extra_json": {
-            "antonym_text": "やさしい 쉽다"
+            "antonym_word": "やさしい",
+            "antonym_meaning": "쉽다"
         },
         "raw_ocr": "難しい 어렵다 - やさしい 쉽다 難しい漢字を書く。 어려운 한자를 쓰다. むずかしい"
     },
@@ -5010,7 +5043,8 @@
         "example_jp": "この菓子は安くておいしい。",
         "example_ko": "이 과자는 싸고 맛있다.",
         "extra_json": {
-            "antonym_text": "高い 비싸다"
+            "antonym_word": "高い",
+            "antonym_meaning": "비싸다"
         },
         "raw_ocr": "安い 싸다 - 高い 비싸다 この菓子は安くておいしい。 이 과자는 싸고 맛있다. やすい"
     },
@@ -5023,7 +5057,8 @@
         "example_jp": "体が弱い。",
         "example_ko": "몸이 약하다.",
         "extra_json": {
-            "antonym_text": "強い 강하다"
+            "antonym_word": "強い",
+            "antonym_meaning": "강하다"
         },
         "raw_ocr": "弱い 약하다 - 強い 강하다 体が弱い。 몸이 약하다. よわい"
     },
@@ -5047,7 +5082,8 @@
         "example_jp": "天気が悪い。",
         "example_ko": "날씨가 나쁘다.",
         "extra_json": {
-            "antonym_text": "いい 좋다"
+            "antonym_word": "いい",
+            "antonym_meaning": "좋다"
         },
         "raw_ocr": "悪い 나쁘다 - いい 좋다 天気が悪い。 날씨가 나쁘다. わるい"
     },
@@ -5148,7 +5184,8 @@
         "example_jp": "魚は嫌いだ。",
         "example_ko": "생선은 싫어한다.",
         "extra_json": {
-            "antonym_text": "好きな 좋아하는"
+            "antonym_word": "好きな",
+            "antonym_meaning": "좋아하는"
         },
         "raw_ocr": "きらいな 싫어하는 - 好きな 좋아하는 魚はきらいだ。 생선은 싫어한다."
     },
@@ -5183,7 +5220,8 @@
         "example_jp": "静かにしなさい。",
         "example_ko": "조용히 하세요.",
         "extra_json": {
-            "antonym_text": "うるさい 시끄러운"
+            "antonym_word": "うるさい",
+            "antonym_meaning": "시끄러운"
         },
         "raw_ocr": "静かな 조용한 - うるさい 시끄러운 静かにしなさい。 조용히 하세요. しずかな"
     },
@@ -5196,7 +5234,8 @@
         "example_jp": "英語を上手に話す。",
         "example_ko": "영어를 능숙하게 말하다.",
         "extra_json": {
-            "antonym_text": "下手な 서툰"
+            "antonym_word": "下手な",
+            "antonym_meaning": "서툰"
         },
         "raw_ocr": "上手な 능숙한 - 下手な 서툰 英語を上手に話す。 영어를 능숙하게 말하다. じょうずな"
     },
@@ -5220,7 +5259,8 @@
         "example_jp": "父はお酒が好きだ。",
         "example_ko": "아버지는 술을 좋아한다.",
         "extra_json": {
-            "antonym_text": "きらいな 싫어하는"
+            "antonym_word": "きらいな",
+            "antonym_meaning": "싫어하는"
         },
         "raw_ocr": "好きな 좋아하는 - きらいな 싫어하는 父はお酒が好きだ。 아버지는 술을 좋아한다. すきな"
     },
@@ -5277,7 +5317,8 @@
         "example_jp": "小さな家に住む。",
         "example_ko": "작은 집에 살다.",
         "extra_json": {
-            "antonym_text": "大きな 큰"
+            "antonym_word": "大きな",
+            "antonym_meaning": "큰"
         },
         "raw_ocr": "小さな 작은 - 大きな 큰 小さな家に住む。 작은 집에 살다. ちいさな"
     },
@@ -5323,7 +5364,8 @@
         "example_jp": "近くにスーパーがあって便利だ。",
         "example_ko": "근처에 슈퍼마켓이 있어서 편리하다.",
         "extra_json": {
-            "antonym_text": "不便な 불편한"
+            "antonym_word": "不便な",
+            "antonym_meaning": "불편한"
         },
         "raw_ocr": "便利な 편리한 - 不便な 불편한 近くにスーパーがあって便利だ。 근처에 슈퍼마켓이 있어서 편리하다. べんりな"
     },
