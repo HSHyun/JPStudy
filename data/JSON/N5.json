@@ -8,7 +8,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "秋 가을 あき"
+        "raw_ocr": "秋 가을 あき",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -19,7 +20,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "朝 아침 あさ"
+        "raw_ocr": "朝 아침 あさ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -30,7 +32,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "朝ご飯 아침밥 あさごはん"
+        "raw_ocr": "朝ご飯 아침밥 あさごはん",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -41,7 +44,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "あさって 모레"
+        "raw_ocr": "あさって 모레",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -52,7 +56,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "足 발 あし"
+        "raw_ocr": "足 발 あし",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -63,7 +68,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "明日 내일 あした"
+        "raw_ocr": "明日 내일 あした",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -74,7 +80,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "あそこ 저기 저곳"
+        "raw_ocr": "あそこ 저기 저곳",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -85,7 +92,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "頭 머리 あたま"
+        "raw_ocr": "頭 머리 あたま",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -99,7 +107,8 @@
             "antonym_word": "古い",
             "antonym_meaning": "낡다"
         },
-        "raw_ocr": "新しい 새롭다 - 古い 낡다. 오래 되다 新しい家に住む。 새집에 살다. あたらしい"
+        "raw_ocr": "新しい 새롭다 - 古い 낡다. 오래 되다 新しい家に住む。 새집에 살다. あたらしい",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -110,7 +119,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "あちら 저쪽 あちら"
+        "raw_ocr": "あちら 저쪽 あちら",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -121,7 +131,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "あなた 당신 あなた"
+        "raw_ocr": "あなた 당신 あなた",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -132,7 +143,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "兄 형 あに"
+        "raw_ocr": "兄 형 あに",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -143,7 +155,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "姉 누나, 언니 あね"
+        "raw_ocr": "姉 누나, 언니 あね",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -154,7 +167,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "雨 비 あめ"
+        "raw_ocr": "雨 비 あめ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -165,7 +179,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "家 집 いえ"
+        "raw_ocr": "家 집 いえ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -176,7 +191,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "いくつ 몇 개 いくつ"
+        "raw_ocr": "いくつ 몇 개 いくつ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -187,7 +203,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "いくら 얼마 いくら"
+        "raw_ocr": "いくら 얼마 いくら",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -198,7 +215,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "医者 의사 いしゃ"
+        "raw_ocr": "医者 의사 いしゃ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -209,7 +227,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "いす 의자 いす"
+        "raw_ocr": "いす 의자 いす",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -220,7 +239,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "一日 하루 いちにち"
+        "raw_ocr": "一日 하루 いちにち",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -231,7 +251,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "一週間 일주일 いっしゅうかん"
+        "raw_ocr": "一週間 일주일 いっしゅうかん",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -242,7 +263,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "いつ 언제 いつ"
+        "raw_ocr": "いつ 언제 いつ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -253,7 +275,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "犬 개 いぬ"
+        "raw_ocr": "犬 개 いぬ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -264,7 +287,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "今 지금 いま"
+        "raw_ocr": "今 지금 いま",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -275,7 +299,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "意味 의미 いみ"
+        "raw_ocr": "意味 의미 いみ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -286,7 +311,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "妹 여동생 いもうと"
+        "raw_ocr": "妹 여동생 いもうと",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -297,7 +323,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "入り口 입구 いりぐち"
+        "raw_ocr": "入り口 입구 いりぐち",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -308,7 +335,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "色 색색깔 いろ"
+        "raw_ocr": "色 색색깔 いろ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -319,7 +347,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "上 위 うえ"
+        "raw_ocr": "上 위 うえ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -330,7 +359,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "後 뒤 나중 あと"
+        "raw_ocr": "後 뒤 나중 あと",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -341,7 +371,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "後ろ 뒤 うしろ"
+        "raw_ocr": "後ろ 뒤 うしろ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -352,7 +383,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "歌 노래 うた"
+        "raw_ocr": "歌 노래 うた",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -363,7 +395,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "海 바다 うみ"
+        "raw_ocr": "海 바다 うみ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -374,7 +407,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "上着 겉옷 상의 うわぎ"
+        "raw_ocr": "上着 겉옷 상의 うわぎ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -385,7 +419,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "絵 그림 え"
+        "raw_ocr": "絵 그림 え",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -396,7 +431,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "映画 영화 えいが"
+        "raw_ocr": "映画 영화 えいが",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -407,7 +443,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "英語 영어 えいご"
+        "raw_ocr": "英語 영어 えいご",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -418,7 +455,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "駅 역 えき"
+        "raw_ocr": "駅 역 えき",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -429,7 +467,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "円 엔 (일본의 화폐 단위) えん"
+        "raw_ocr": "円 엔 (일본의 화폐 단위) えん",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -440,7 +479,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "鉛筆 연필 えんぴつ"
+        "raw_ocr": "鉛筆 연필 えんぴつ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -451,7 +491,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "お母さん 어머니 おかあさん"
+        "raw_ocr": "お母さん 어머니 おかあさん",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -462,7 +503,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "お菓子 과자 おかし"
+        "raw_ocr": "お菓子 과자 おかし",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -473,7 +515,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "お金 돈 おかね"
+        "raw_ocr": "お金 돈 おかね",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -484,7 +527,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "お客さん 손님 おきゃくさん"
+        "raw_ocr": "お客さん 손님 おきゃくさん",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -495,7 +539,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "奥さん 부인 おくさん"
+        "raw_ocr": "奥さん 부인 おくさん",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -506,7 +551,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "お酒 술 おさけ"
+        "raw_ocr": "お酒 술 おさけ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -517,7 +563,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "お皿 접시 おさら"
+        "raw_ocr": "お皿 접시 おさら",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -528,7 +575,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "おじいさん 할아버지"
+        "raw_ocr": "おじいさん 할아버지",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -539,7 +587,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "おじさん 아저씨 삼촌"
+        "raw_ocr": "おじさん 아저씨 삼촌",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -550,7 +599,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "お茶 차(음료) おちゃ"
+        "raw_ocr": "お茶 차(음료) おちゃ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -561,7 +611,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "お父さん 아버지 おとうさん"
+        "raw_ocr": "お父さん 아버지 おとうさん",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -572,7 +623,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "弟 남동생 おとうと"
+        "raw_ocr": "弟 남동생 おとうと",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -583,7 +635,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "男 남자 おとこ"
+        "raw_ocr": "男 남자 おとこ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -594,7 +647,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "男の子 남자 아이 おとこのこ"
+        "raw_ocr": "男の子 남자 아이 おとこのこ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -605,7 +659,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "男の人 남자 おとこのひと"
+        "raw_ocr": "男の人 남자 おとこのひと",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -616,7 +671,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "一昨日 그저께 おととい"
+        "raw_ocr": "一昨日 그저께 おととい",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -627,7 +683,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "一昨年 재작년 おととし"
+        "raw_ocr": "一昨年 재작년 おととし",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -638,7 +695,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "大人 어른 おとな"
+        "raw_ocr": "大人 어른 おとな",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -649,7 +707,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "お腹 배복부 おなか"
+        "raw_ocr": "お腹 배복부 おなか",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -660,7 +719,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "お兄さん 오빠 おにいさん"
+        "raw_ocr": "お兄さん 오빠 おにいさん",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -671,7 +731,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "お姉さん 누나 언니 おねえさん"
+        "raw_ocr": "お姉さん 누나 언니 おねえさん",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -682,7 +743,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "おばあさん 할머니"
+        "raw_ocr": "おばあさん 할머니",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -693,7 +755,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "おばさん 아주머니 이모 고모"
+        "raw_ocr": "おばさん 아주머니 이모 고모",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -704,7 +767,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "お風呂 목욕 욕실 おふろ"
+        "raw_ocr": "お風呂 목욕 욕실 おふろ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -715,7 +779,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "お弁当 도시락 おべんとう"
+        "raw_ocr": "お弁当 도시락 おべんとう",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -726,7 +791,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "おまわりさん 경찰관 おまわりさん"
+        "raw_ocr": "おまわりさん 경찰관 おまわりさん",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -737,7 +803,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "音楽 음악 おんがく"
+        "raw_ocr": "音楽 음악 おんがく",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -748,7 +815,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "女 여자 あんな"
+        "raw_ocr": "女 여자 あんな",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -759,7 +827,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "女の子 여자 아이 おんなのこ"
+        "raw_ocr": "女の子 여자 아이 おんなのこ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -770,7 +839,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "女の人 여자 여성 おんなのひと"
+        "raw_ocr": "女の人 여자 여성 おんなのひと",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -781,7 +851,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "外国人 외국인 がいこくじん"
+        "raw_ocr": "外国人 외국인 がいこくじん",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -792,7 +863,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "会社 회사 かいしゃ"
+        "raw_ocr": "会社 회사 かいしゃ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -803,7 +875,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "会社員 회사원 かいしゃいん"
+        "raw_ocr": "会社員 회사원 かいしゃいん",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -814,7 +887,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "階段 계단 かいだん"
+        "raw_ocr": "階段 계단 かいだん",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -825,7 +899,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "買い物 쇼핑 장보기 かいもの"
+        "raw_ocr": "買い物 쇼핑 장보기 かいもの",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -836,7 +911,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "顔 얼굴 かお"
+        "raw_ocr": "顔 얼굴 かお",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -847,7 +923,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "かぎ 열쇠"
+        "raw_ocr": "かぎ 열쇠",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -858,7 +935,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "学生 학생 がくせい"
+        "raw_ocr": "学生 학생 がくせい",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -869,7 +947,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "かさ 우산"
+        "raw_ocr": "かさ 우산",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -880,7 +959,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "風 바람 かぜ"
+        "raw_ocr": "風 바람 かぜ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -891,7 +971,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "風邪 감기 かぜ"
+        "raw_ocr": "風邪 감기 かぜ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -902,7 +983,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "家族 가족 かぞく"
+        "raw_ocr": "家族 가족 かぞく",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -913,7 +995,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "学校 학교 がっこう"
+        "raw_ocr": "学校 학교 がっこう",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -924,7 +1007,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "角 모퉁이 모서리 かど"
+        "raw_ocr": "角 모퉁이 모서리 かど",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -935,7 +1019,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "かばん 가방"
+        "raw_ocr": "かばん 가방",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -946,7 +1031,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "花瓶 화병 꽃병 かぴん"
+        "raw_ocr": "花瓶 화병 꽃병 かぴん",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -957,7 +1043,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "紙 종이 かみ"
+        "raw_ocr": "紙 종이 かみ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -968,7 +1055,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "体 몸 からだ"
+        "raw_ocr": "体 몸 からだ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -979,7 +1067,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "川 강 かわ"
+        "raw_ocr": "川 강 かわ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -990,7 +1079,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "漢字 한자 かんじ"
+        "raw_ocr": "漢字 한자 かんじ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1001,7 +1091,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "木 나무 き"
+        "raw_ocr": "木 나무 き",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1012,7 +1103,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "北 북쪽 きた"
+        "raw_ocr": "北 북쪽 きた",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1023,7 +1115,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "喫茶店 찻집 きっさてん"
+        "raw_ocr": "喫茶店 찻집 きっさてん",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1034,7 +1127,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "切手 우표 きって"
+        "raw_ocr": "切手 우표 きって",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1045,7 +1139,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "切符 표 きっぷ"
+        "raw_ocr": "切符 표 きっぷ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1056,7 +1151,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "昨日 어제 きのう"
+        "raw_ocr": "昨日 어제 きのう",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1067,7 +1163,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "牛肉 소고기 ぎゅうにく"
+        "raw_ocr": "牛肉 소고기 ぎゅうにく",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1078,7 +1175,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "牛乳 우유 ぎゅうにゅう"
+        "raw_ocr": "牛乳 우유 ぎゅうにゅう",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1089,7 +1187,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "今日 오늘 きょう"
+        "raw_ocr": "今日 오늘 きょう",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1100,7 +1199,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "教室 교실 きょうしつ"
+        "raw_ocr": "教室 교실 きょうしつ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1111,7 +1211,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "兄弟 형제 きょうだい"
+        "raw_ocr": "兄弟 형제 きょうだい",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1122,7 +1223,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "去年 작년 きょねん"
+        "raw_ocr": "去年 작년 きょねん",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1133,7 +1235,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "銀行 은행 ぎんこう"
+        "raw_ocr": "銀行 은행 ぎんこう",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1144,7 +1247,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "薬 약 くすり"
+        "raw_ocr": "薬 약 くすり",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1155,7 +1259,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "果物 과일 くだもの"
+        "raw_ocr": "果物 과일 くだもの",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1166,7 +1271,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "口 입 くち"
+        "raw_ocr": "口 입 くち",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1177,7 +1283,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "靴 신발 구두 くつ"
+        "raw_ocr": "靴 신발 구두 くつ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1188,7 +1295,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "靴下 양말 くつした"
+        "raw_ocr": "靴下 양말 くつした",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1199,7 +1307,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "国 나라 くに"
+        "raw_ocr": "国 나라 くに",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1210,7 +1319,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "車 자동차 くるま"
+        "raw_ocr": "車 자동차 くるま",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1221,7 +1331,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "警官 경관 경찰관 けいかん"
+        "raw_ocr": "警官 경관 경찰관 けいかん",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1232,7 +1343,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "今朝 오늘 아침 けさ"
+        "raw_ocr": "今朝 오늘 아침 けさ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1243,7 +1355,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "結婚 결혼 けっこん"
+        "raw_ocr": "結婚 결혼 けっこん",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1254,7 +1367,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "公園 공원 こうえん"
+        "raw_ocr": "公園 공원 こうえん",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1265,7 +1379,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "紅茶 홍차 こうちゃ"
+        "raw_ocr": "紅茶 홍차 こうちゃ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1276,7 +1391,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "交番 파출소 こうばん"
+        "raw_ocr": "交番 파출소 こうばん",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1287,7 +1403,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "声 목소리 こえ"
+        "raw_ocr": "声 목소리 こえ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1298,7 +1415,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "ここ 여기 이곳"
+        "raw_ocr": "ここ 여기 이곳",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1309,7 +1427,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "午後 오후 ごご"
+        "raw_ocr": "午後 오후 ごご",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1320,7 +1439,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "午前 오전 ごぜん"
+        "raw_ocr": "午前 오전 ごぜん",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1331,7 +1451,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "こちら 이쪽"
+        "raw_ocr": "こちら 이쪽",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1342,7 +1463,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "今年 금년 올해 ことし"
+        "raw_ocr": "今年 금년 올해 ことし",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1353,7 +1475,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "子ども 어린이 아이 こども"
+        "raw_ocr": "子ども 어린이 아이 こども",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1364,7 +1487,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "ご飯 밥 ごはん"
+        "raw_ocr": "ご飯 밥 ごはん",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1375,7 +1499,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "これ 이것"
+        "raw_ocr": "これ 이것",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1386,7 +1511,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "今月 이번 달 こんげつ"
+        "raw_ocr": "今月 이번 달 こんげつ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1397,7 +1523,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "今週 이번 주 こんしゅう"
+        "raw_ocr": "今週 이번 주 こんしゅう",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1408,7 +1535,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "今晩 오늘 밤 こんばん"
+        "raw_ocr": "今晩 오늘 밤 こんばん",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1419,7 +1547,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "最後 최후 마지막 さいご"
+        "raw_ocr": "最後 최후 마지막 さいご",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1430,7 +1559,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "財布 지갑 さいふ"
+        "raw_ocr": "財布 지갑 さいふ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1441,7 +1571,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "魚 생선 물고기 さかな"
+        "raw_ocr": "魚 생선 물고기 さかな",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1452,7 +1583,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "先 먼저 さき"
+        "raw_ocr": "先 먼저 さき",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1463,7 +1595,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "作文 작문 さくぶん"
+        "raw_ocr": "作文 작문 さくぶん",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1474,7 +1607,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "雑誌 잡지 ざっし"
+        "raw_ocr": "雑誌 잡지 ざっし",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1485,7 +1619,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "散歩 산책 さんぽ"
+        "raw_ocr": "散歩 산책 さんぽ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1496,7 +1631,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "塩 소금 しお"
+        "raw_ocr": "塩 소금 しお",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1507,7 +1643,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "時間 시간 じかん"
+        "raw_ocr": "時間 시간 じかん",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1518,7 +1655,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "仕事 일 업무 しごと"
+        "raw_ocr": "仕事 일 업무 しごと",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1529,7 +1667,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "辞書 사전 じしょ"
+        "raw_ocr": "辞書 사전 じしょ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1540,7 +1679,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "下 아래 した"
+        "raw_ocr": "下 아래 した",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1551,7 +1691,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "写真 사진 しゃしん"
+        "raw_ocr": "写真 사진 しゃしん",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1562,7 +1703,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "宿題 숙제 しゅくだい"
+        "raw_ocr": "宿題 숙제 しゅくだい",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1573,7 +1715,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "食堂 식당 しょくどう"
+        "raw_ocr": "食堂 식당 しょくどう",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1584,7 +1727,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "新聞 신문 しんぶん"
+        "raw_ocr": "新聞 신문 しんぶん",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1595,7 +1739,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "すし 초밥"
+        "raw_ocr": "すし 초밥",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1606,7 +1751,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "背 키 신장 せ"
+        "raw_ocr": "背 키 신장 せ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1617,7 +1763,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "生徒 학생 せいと"
+        "raw_ocr": "生徒 학생 せいと",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1628,7 +1775,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "せっけん 비누"
+        "raw_ocr": "せっけん 비누",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1639,7 +1787,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "千 천 せん"
+        "raw_ocr": "千 천 せん",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1650,7 +1799,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "先月 지난달 せんげつ"
+        "raw_ocr": "先月 지난달 せんげつ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1661,7 +1811,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "先週 지난주 せんしゅう"
+        "raw_ocr": "先週 지난주 せんしゅう",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1672,7 +1823,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "先生 선생님 せんせい"
+        "raw_ocr": "先生 선생님 せんせい",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1683,7 +1835,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "そこ 거기 그곳"
+        "raw_ocr": "そこ 거기 그곳",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1694,7 +1847,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "そちら 그쪽"
+        "raw_ocr": "そちら 그쪽",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1705,7 +1859,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "外 바깥 そと"
+        "raw_ocr": "外 바깥 そと",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1716,7 +1871,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "側 옆 곁 そば"
+        "raw_ocr": "側 옆 곁 そば",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1727,7 +1883,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "そば 메밀국수"
+        "raw_ocr": "そば 메밀국수",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1738,7 +1895,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "空 하늘 そら"
+        "raw_ocr": "空 하늘 そら",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1749,7 +1907,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "それ 그것"
+        "raw_ocr": "それ 그것",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1760,7 +1919,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "大学 대학 だいがく"
+        "raw_ocr": "大学 대학 だいがく",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1771,7 +1931,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "台所 부엌 だいどころ"
+        "raw_ocr": "台所 부엌 だいどころ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1782,7 +1943,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "建物 건물 たてもの"
+        "raw_ocr": "建物 건물 たてもの",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1793,7 +1955,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "たばこ 담배"
+        "raw_ocr": "たばこ 담배",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1804,7 +1967,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "食べ物 음식 たべもの"
+        "raw_ocr": "食べ物 음식 たべもの",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1815,7 +1979,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "たまご 계란"
+        "raw_ocr": "たまご 계란",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1826,7 +1991,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "だれ 누구"
+        "raw_ocr": "だれ 누구",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1837,7 +2003,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "誕生日 생일 たんじょうび"
+        "raw_ocr": "誕生日 생일 たんじょうび",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1848,7 +2015,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "近く 근처 부근 ちかく"
+        "raw_ocr": "近く 근처 부근 ちかく",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1859,7 +2027,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "地下鉄 지하철 ちかてつ"
+        "raw_ocr": "地下鉄 지하철 ちかてつ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1870,7 +2039,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "地図 지도 ちず"
+        "raw_ocr": "地図 지도 ちず",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1881,7 +2051,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "父 아버지 ちち"
+        "raw_ocr": "父 아버지 ちち",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1892,7 +2063,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "鳥 새 とり"
+        "raw_ocr": "鳥 새 とり",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1903,7 +2075,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "次 다음 つぎ"
+        "raw_ocr": "次 다음 つぎ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1914,7 +2087,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "鶏肉 닭고기 とりにく"
+        "raw_ocr": "鶏肉 닭고기 とりにく",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1925,7 +2099,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "どれ 어느 것"
+        "raw_ocr": "どれ 어느 것",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1936,7 +2111,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "机 책상 つくえ"
+        "raw_ocr": "机 책상 つくえ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1947,7 +2123,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "作り方 만드는 법 つくりかた"
+        "raw_ocr": "作り方 만드는 법 つくりかた",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1958,7 +2135,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "手 손 て"
+        "raw_ocr": "手 손 て",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1969,7 +2147,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "手紙 편지 てがみ"
+        "raw_ocr": "手紙 편지 てがみ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1980,7 +2159,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "中 가운데 안 なか"
+        "raw_ocr": "中 가운데 안 なか",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -1991,7 +2171,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "出口 출구 でぐち"
+        "raw_ocr": "出口 출구 でぐち",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2002,7 +2183,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "天気 날씨 てんき"
+        "raw_ocr": "天気 날씨 てんき",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2013,7 +2195,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "電気 전기 でんき"
+        "raw_ocr": "電気 전기 でんき",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2024,7 +2207,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "電車 전철 でんしゃ"
+        "raw_ocr": "電車 전철 でんしゃ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2035,7 +2219,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "電話 전화 でんわ"
+        "raw_ocr": "電話 전화 でんわ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2046,7 +2231,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "動物 동물 どうぶつ"
+        "raw_ocr": "動物 동물 どうぶつ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2057,7 +2243,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "時計 시계 とけい"
+        "raw_ocr": "時計 시계 とけい",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2068,7 +2255,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "どこ 어디"
+        "raw_ocr": "どこ 어디",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2079,7 +2267,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "所 장소 곳 ところ"
+        "raw_ocr": "所 장소 곳 ところ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2090,7 +2279,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "年 해 나이 とし"
+        "raw_ocr": "年 해 나이 とし",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2101,7 +2291,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "図書館 도서관 としょかん"
+        "raw_ocr": "図書館 도서관 としょかん",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2112,7 +2303,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "どちら 어느 쪽"
+        "raw_ocr": "どちら 어느 쪽",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2123,7 +2315,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "どなた 어느 분"
+        "raw_ocr": "どなた 어느 분",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2134,7 +2327,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "となり 옆 이웃"
+        "raw_ocr": "となり 옆 이웃",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2145,7 +2339,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "友だち 친구 ともだち"
+        "raw_ocr": "友だち 친구 ともだち",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2156,7 +2351,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "夏 여름 なつ"
+        "raw_ocr": "夏 여름 なつ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2167,7 +2363,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "夏休み 여름 방학 なつやすみ"
+        "raw_ocr": "夏休み 여름 방학 なつやすみ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2178,7 +2375,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "何 무엇 なに"
+        "raw_ocr": "何 무엇 なに",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2189,7 +2387,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "名前 이름 なまえ"
+        "raw_ocr": "名前 이름 なまえ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2200,7 +2399,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "肉 고기 にく"
+        "raw_ocr": "肉 고기 にく",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2211,7 +2411,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "西 서쪽 にし"
+        "raw_ocr": "西 서쪽 にし",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2222,7 +2423,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "日本語 일본어 にほんご"
+        "raw_ocr": "日本語 일본어 にほんご",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2233,7 +2435,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "日本人 일본인 にほんじん"
+        "raw_ocr": "日本人 일본인 にほんじん",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2244,7 +2447,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "庭 정원 にわ"
+        "raw_ocr": "庭 정원 にわ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2255,7 +2459,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "猫 고양이 ねこ"
+        "raw_ocr": "猫 고양이 ねこ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2266,7 +2471,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "飲み物 음료 마실 것 のみもの"
+        "raw_ocr": "飲み物 음료 마실 것 のみもの",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2277,7 +2483,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "歯 이(치아) は"
+        "raw_ocr": "歯 이(치아) は",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2288,7 +2495,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "灰皿 재떨이 はいざら"
+        "raw_ocr": "灰皿 재떨이 はいざら",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2299,7 +2507,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "葉書 엽서 はがき"
+        "raw_ocr": "葉書 엽서 はがき",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2310,7 +2519,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "二十歳 스무 살 はたち"
+        "raw_ocr": "二十歳 스무 살 はたち",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2321,7 +2531,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "鼻 코 はな"
+        "raw_ocr": "鼻 코 はな",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2332,7 +2543,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "花 꽃 はな"
+        "raw_ocr": "花 꽃 はな",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2343,7 +2555,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "話 이야기 はなし"
+        "raw_ocr": "話 이야기 はなし",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2354,7 +2567,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "母 어머니 はは"
+        "raw_ocr": "母 어머니 はは",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2365,7 +2579,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "春 봄 はる"
+        "raw_ocr": "春 봄 はる",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2376,7 +2591,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "番号 번호 ばんごう"
+        "raw_ocr": "番号 번호 ばんごう",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2387,7 +2603,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "晩ご飯 저녁밥 ばんごはん"
+        "raw_ocr": "晩ご飯 저녁밥 ばんごはん",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2398,7 +2615,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "半分 절반 はんぶん"
+        "raw_ocr": "半分 절반 はんぶん",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2409,7 +2627,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "東 동쪽 ひがし"
+        "raw_ocr": "東 동쪽 ひがし",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2420,7 +2639,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "飛行機 비행기 ひこうき"
+        "raw_ocr": "飛行機 비행기 ひこうき",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2431,7 +2651,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "人 사람 ひと"
+        "raw_ocr": "人 사람 ひと",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2442,7 +2663,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "百 백 (100) ひゃく"
+        "raw_ocr": "百 백 (100) ひゃく",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2453,7 +2675,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "百点 백점 ひゃくてん"
+        "raw_ocr": "百点 백점 ひゃくてん",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2464,7 +2687,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "病院 병원 びょういん"
+        "raw_ocr": "病院 병원 びょういん",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2475,7 +2699,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "病気 병 びょうき"
+        "raw_ocr": "病気 병 びょうき",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2486,7 +2711,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "昼 낮 ひる"
+        "raw_ocr": "昼 낮 ひる",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2497,7 +2723,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "昼ご飯 점심밥 ひるごはん"
+        "raw_ocr": "昼ご飯 점심밥 ひるごはん",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2508,7 +2735,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "服 옷 ふく"
+        "raw_ocr": "服 옷 ふく",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2519,7 +2747,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "冬 겨울 ふゆ"
+        "raw_ocr": "冬 겨울 ふゆ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2530,7 +2759,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "部屋 방 へや"
+        "raw_ocr": "部屋 방 へや",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2541,7 +2771,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "勉強 공부 べんきょう"
+        "raw_ocr": "勉強 공부 べんきょう",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2552,7 +2783,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "方 방향 쪽 ほう"
+        "raw_ocr": "方 방향 쪽 ほう",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2563,7 +2795,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "帽子 모자 ぼうし"
+        "raw_ocr": "帽子 모자 ぼうし",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2574,7 +2807,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "ほか 외 다른 것"
+        "raw_ocr": "ほか 외 다른 것",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2585,7 +2819,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "本 책 ほん"
+        "raw_ocr": "本 책 ほん",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2596,7 +2831,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "毎朝 매일 아침 まいあさ"
+        "raw_ocr": "毎朝 매일 아침 まいあさ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2607,7 +2843,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "毎月 매월 まいげつ"
+        "raw_ocr": "毎月 매월 まいげつ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2618,7 +2855,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "毎週 매주 まいしゅう"
+        "raw_ocr": "毎週 매주 まいしゅう",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2629,7 +2867,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "毎日 매일 まいにち"
+        "raw_ocr": "毎日 매일 まいにち",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2640,7 +2879,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "毎年 매년 まいねん"
+        "raw_ocr": "毎年 매년 まいねん",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2651,7 +2891,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "毎晩 매일 밤 まいばん"
+        "raw_ocr": "毎晩 매일 밤 まいばん",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2662,7 +2903,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "前 앞 전 まえ"
+        "raw_ocr": "前 앞 전 まえ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2673,7 +2915,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "町 마을 まち"
+        "raw_ocr": "町 마을 まち",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2684,7 +2927,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "窓 창 창문 まど"
+        "raw_ocr": "窓 창 창문 まど",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2695,7 +2939,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "右 오른쪽 みぎ"
+        "raw_ocr": "右 오른쪽 みぎ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2706,7 +2951,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "水 물 みず"
+        "raw_ocr": "水 물 みず",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2717,7 +2963,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "店 가게 みせ"
+        "raw_ocr": "店 가게 みせ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2728,7 +2975,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "道 길 みち"
+        "raw_ocr": "道 길 みち",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2739,7 +2987,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "緑 초록 みどり"
+        "raw_ocr": "緑 초록 みどり",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2750,7 +2999,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "みなさん 여러분"
+        "raw_ocr": "みなさん 여러분",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2761,7 +3011,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "南 남쪽 みなみ"
+        "raw_ocr": "南 남쪽 みなみ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2772,7 +3023,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "耳 귀 みみ"
+        "raw_ocr": "耳 귀 みみ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2783,7 +3035,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "みんな 모두 전원"
+        "raw_ocr": "みんな 모두 전원",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2794,7 +3047,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "目 눈(신체) め"
+        "raw_ocr": "目 눈(신체) め",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2805,7 +3059,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "めがね 안경"
+        "raw_ocr": "めがね 안경",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2816,7 +3071,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "物 물건 もの"
+        "raw_ocr": "物 물건 もの",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2827,7 +3083,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "門 문 もん"
+        "raw_ocr": "門 문 もん",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2838,7 +3095,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "問題 문제 もんだい"
+        "raw_ocr": "問題 문제 もんだい",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2849,7 +3107,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "来年 내년 らいねん"
+        "raw_ocr": "来年 내년 らいねん",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2860,7 +3119,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "留学生 유학생 りゅうがくせい"
+        "raw_ocr": "留学生 유학생 りゅうがくせい",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2871,7 +3131,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "料理 요리 りょうり"
+        "raw_ocr": "料理 요리 りょうり",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2882,7 +3143,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "練習 연습 れんしゅう"
+        "raw_ocr": "練習 연습 れんしゅう",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2893,7 +3155,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "私 나 わたし"
+        "raw_ocr": "私 나 わたし",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2904,7 +3167,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "八百屋 채소 가게 やおや"
+        "raw_ocr": "八百屋 채소 가게 やおや",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2915,7 +3179,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "野菜 채소 やさい"
+        "raw_ocr": "野菜 채소 やさい",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2926,7 +3191,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "休み 휴일 쉬는 시간 やすみ"
+        "raw_ocr": "休み 휴일 쉬는 시간 やすみ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2937,7 +3203,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "山 산 やま"
+        "raw_ocr": "山 산 やま",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2948,7 +3215,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "夕方 저녁 ゆうがた"
+        "raw_ocr": "夕方 저녁 ゆうがた",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2959,7 +3227,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "夕飯 저녁밥 ゆうはん"
+        "raw_ocr": "夕飯 저녁밥 ゆうはん",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2970,7 +3239,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "雪 눈(날씨) ゆき"
+        "raw_ocr": "雪 눈(날씨) ゆき",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2981,7 +3251,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "洋服 양복 ようふく"
+        "raw_ocr": "洋服 양복 ようふく",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -2992,7 +3263,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "横 옆 よこ"
+        "raw_ocr": "横 옆 よこ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -3003,7 +3275,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "夜 밤 よる"
+        "raw_ocr": "夜 밤 よる",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -3014,7 +3287,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "来月 다음 달 らいげつ"
+        "raw_ocr": "来月 다음 달 らいげつ",
+        "level": "N5"
     },
     {
         "section": "명사",
@@ -3025,7 +3299,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "来週 다음 주 らいしゅう"
+        "raw_ocr": "来週 다음 주 らいしゅう",
+        "level": "N5"
     },
     {
         "section": "조수사",
@@ -3049,7 +3324,8 @@
                 "十 じゅう"
             ]
         },
-        "raw_ocr": "숫자 세는 법"
+        "raw_ocr": "숫자 세는 법",
+        "level": "N5"
     },
     {
         "section": "조수사",
@@ -3073,7 +3349,8 @@
                 "十回 じゅっかい"
             ]
         },
-        "raw_ocr": "~回(かい) ~회 번"
+        "raw_ocr": "~回(かい) ~회 번",
+        "level": "N5"
     },
     {
         "section": "조수사",
@@ -3098,7 +3375,8 @@
                 "いくつ 몇 개"
             ]
         },
-        "raw_ocr": "~つ ~개"
+        "raw_ocr": "~つ ~개",
+        "level": "N5"
     },
     {
         "section": "조수사",
@@ -3122,7 +3400,8 @@
                 "十個 じゅっこ"
             ]
         },
-        "raw_ocr": "~個(こ) ~개"
+        "raw_ocr": "~個(こ) ~개",
+        "level": "N5"
     },
     {
         "section": "조수사",
@@ -3146,7 +3425,8 @@
                 "十階 じゅっかい"
             ]
         },
-        "raw_ocr": "~階(かい/がい) ~층"
+        "raw_ocr": "~階(かい/がい) ~층",
+        "level": "N5"
     },
     {
         "section": "조수사",
@@ -3170,7 +3450,8 @@
                 "十年 じゅうねん"
             ]
         },
-        "raw_ocr": "~年(ねん) ~년"
+        "raw_ocr": "~年(ねん) ~년",
+        "level": "N5"
     },
     {
         "section": "조수사",
@@ -3194,7 +3475,8 @@
                 "十円 じゅうえん"
             ]
         },
-        "raw_ocr": "~円(えん)"
+        "raw_ocr": "~円(えん)",
+        "level": "N5"
     },
     {
         "section": "조수사",
@@ -3218,7 +3500,8 @@
                 "十番 じゅうばん"
             ]
         },
-        "raw_ocr": "~番(ばん) ~번"
+        "raw_ocr": "~番(ばん) ~번",
+        "level": "N5"
     },
     {
         "section": "조수사",
@@ -3244,7 +3527,8 @@
                 "十二月 じゅうにがつ"
             ]
         },
-        "raw_ocr": "~月(がつ) ~월"
+        "raw_ocr": "~月(がつ) ~월",
+        "level": "N5"
     },
     {
         "section": "조수사",
@@ -3269,7 +3553,8 @@
                 "二十日 はつか"
             ]
         },
-        "raw_ocr": "~日(にち) ~일"
+        "raw_ocr": "~日(にち) ~일",
+        "level": "N5"
     },
     {
         "section": "조수사",
@@ -3295,7 +3580,8 @@
                 "十二時 じゅうにじ"
             ]
         },
-        "raw_ocr": "~時(じ) ~시"
+        "raw_ocr": "~時(じ) ~시",
+        "level": "N5"
     },
     {
         "section": "조수사",
@@ -3319,7 +3605,8 @@
                 "十分 じゅっぷん"
             ]
         },
-        "raw_ocr": "~分(ふん/ぷん) ~분"
+        "raw_ocr": "~分(ふん/ぷん) ~분",
+        "level": "N5"
     },
     {
         "section": "조수사",
@@ -3340,7 +3627,8 @@
                 "土曜日 どようび"
             ]
         },
-        "raw_ocr": "~曜日(ようび) ~요일"
+        "raw_ocr": "~曜日(ようび) ~요일",
+        "level": "N5"
     },
     {
         "section": "조수사",
@@ -3364,7 +3652,8 @@
                 "十杯 じゅっぱい"
             ]
         },
-        "raw_ocr": "~杯(はい/ぱい) ~잔"
+        "raw_ocr": "~杯(はい/ぱい) ~잔",
+        "level": "N5"
     },
     {
         "section": "조수사",
@@ -3388,7 +3677,8 @@
                 "十倍 じゅうばい"
             ]
         },
-        "raw_ocr": "~倍(ばい) ~배"
+        "raw_ocr": "~倍(ばい) ~배",
+        "level": "N5"
     },
     {
         "section": "조수사",
@@ -3412,7 +3702,8 @@
                 "十本 じゅっぽん"
             ]
         },
-        "raw_ocr": "~本(ほん/ぽん/ぼん) ~자루"
+        "raw_ocr": "~本(ほん/ぽん/ぼん) ~자루",
+        "level": "N5"
     },
     {
         "section": "조수사",
@@ -3436,7 +3727,8 @@
                 "十枚 じゅうまい"
             ]
         },
-        "raw_ocr": "~枚(まい) ~장"
+        "raw_ocr": "~枚(まい) ~장",
+        "level": "N5"
     },
     {
         "section": "조수사",
@@ -3460,7 +3752,8 @@
                 "十人 じゅうにん"
             ]
         },
-        "raw_ocr": "~人(にん) ~명"
+        "raw_ocr": "~人(にん) ~명",
+        "level": "N5"
     },
     {
         "section": "조수사",
@@ -3484,7 +3777,8 @@
                 "十匹 じゅっぴき"
             ]
         },
-        "raw_ocr": "~匹(ひき) ~마리"
+        "raw_ocr": "~匹(ひき) ~마리",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -3495,7 +3789,8 @@
         "example_jp": "駅で友だちに会う。",
         "example_ko": "역에서 친구를 만나다.",
         "extra_json": null,
-        "raw_ocr": "会う 만나다 駅で友だちに会う。 역에서 친구를 만나다. あう"
+        "raw_ocr": "会う 만나다 駅で友だちに会う。 역에서 친구를 만나다. あう",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -3506,7 +3801,8 @@
         "example_jp": "エスカレーターで上がる。",
         "example_ko": "에스컬레이터로 올라가다.",
         "extra_json": null,
-        "raw_ocr": "上がる 오르다. 올라가다 エスカレーターで上がる 에스컬레이터로 올라가다. あがる"
+        "raw_ocr": "上がる 오르다. 올라가다 エスカレーターで上がる 에스컬레이터로 올라가다. あがる",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -3517,7 +3813,8 @@
         "example_jp": "ドアが開いている。",
         "example_ko": "문이 열려 있다.",
         "extra_json": null,
-        "raw_ocr": "開く 열리다 ドアが開いている。 이 열려 있다. あく"
+        "raw_ocr": "開く 열리다 ドアが開いている。 이 열려 있다. あく",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -3528,7 +3825,8 @@
         "example_jp": "窓を開ける。",
         "example_ko": "창문을 열다.",
         "extra_json": null,
-        "raw_ocr": "開ける 열다 窓を開ける。 창문을 열다. あける"
+        "raw_ocr": "開ける 열다 窓を開ける。 창문을 열다. あける",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -3539,7 +3837,8 @@
         "example_jp": "部屋の温度を上げる。",
         "example_ko": "방의 온도를 올리다.",
         "extra_json": null,
-        "raw_ocr": "上げる 올리다 部屋の温度を上げる。 방의 온도를 올리다. あげる"
+        "raw_ocr": "上げる 올리다 部屋の温度を上げる。 방의 온도를 올리다. あげる",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -3550,7 +3849,8 @@
         "example_jp": "友だちにプレゼントをあげる。",
         "example_ko": "친구에게 선물을 주다.",
         "extra_json": null,
-        "raw_ocr": "あげる 주다 友だちにプレゼントをあげる。 친구에게 선물을 주다. あげる"
+        "raw_ocr": "あげる 주다 友だちにプレゼントをあげる。 친구에게 선물을 주다. あげる",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -3561,7 +3861,8 @@
         "example_jp": "友だちの家に遊びに行く。",
         "example_ko": "친구 집에 놀러가다.",
         "extra_json": null,
-        "raw_ocr": "遊ぶ 놀다 友だちの家に遊びに行く 친구 집에 놀러가다. あそぶ"
+        "raw_ocr": "遊ぶ 놀다 友だちの家に遊びに行く 친구 집에 놀러가다. あそぶ",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -3572,7 +3873,8 @@
         "example_jp": "シャワーをあびる。",
         "example_ko": "샤워하다.",
         "extra_json": null,
-        "raw_ocr": "あびる 뒤집어쓰다. 끼얹다 シャワーをあびる 샤워하다."
+        "raw_ocr": "あびる 뒤집어쓰다. 끼얹다 シャワーをあびる 샤워하다.",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -3583,7 +3885,8 @@
         "example_jp": "顔を洗う。",
         "example_ko": "세수하다 (얼굴을 씻다).",
         "extra_json": null,
-        "raw_ocr": "洗う 씻다 顔を洗う。 세수하다(얼굴을 씻다). あらう"
+        "raw_ocr": "洗う 씻다 顔を洗う。 세수하다(얼굴을 씻다). あらう",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -3594,7 +3897,8 @@
         "example_jp": "つくえの上に本がある。",
         "example_ko": "책상 위에 책이 있다.",
         "extra_json": null,
-        "raw_ocr": "ある 있다 つくえの上に本がある 책상 위에 책이 있다. ある"
+        "raw_ocr": "ある 있다 つくえの上に本がある 책상 위에 책이 있다. ある",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -3605,7 +3909,8 @@
         "example_jp": "学校まで歩いて行く。",
         "example_ko": "학교까지 걸어가다.",
         "extra_json": null,
-        "raw_ocr": "歩く 걷다 学校まで歩いて行く。 학교까지 걸어가다. あるく"
+        "raw_ocr": "歩く 걷다 学校まで歩いて行く。 학교까지 걸어가다. あるく",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -3616,7 +3921,8 @@
         "example_jp": "親の言うことを聞く。",
         "example_ko": "부모가 하는 말을 듣다.",
         "extra_json": null,
-        "raw_ocr": "言う 말하다 親の言うことを聞く。 부모가 하는 말을 듣다. いう"
+        "raw_ocr": "言う 말하다 親の言うことを聞く。 부모가 하는 말을 듣다. いう",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -3627,7 +3933,8 @@
         "example_jp": "毎朝会社へ行く。",
         "example_ko": "매일 아침 회사에 간다.",
         "extra_json": null,
-        "raw_ocr": "行く 가다 毎朝会社へ行く 매일 아침 회사에 간다. いく"
+        "raw_ocr": "行く 가다 毎朝会社へ行く 매일 아침 회사에 간다. いく",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -3638,7 +3945,8 @@
         "example_jp": "時間とお金が要る。",
         "example_ko": "시간과 돈이 필요하다.",
         "extra_json": null,
-        "raw_ocr": "要る 필요하다 時間とお金が要る。 시간과 돈이 필요하다. いる"
+        "raw_ocr": "要る 필요하다 時間とお金が要る。 시간과 돈이 필요하다. いる",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -3649,7 +3957,8 @@
         "example_jp": "私は5時まで会社にいます。",
         "example_ko": "나는 5시까지 회사에 있습니다.",
         "extra_json": null,
-        "raw_ocr": "いる 있다 私は5時まで会社にいます。 나는 5시까지 회사에 있습니다. いる"
+        "raw_ocr": "いる 있다 私は5時まで会社にいます。 나는 5시까지 회사에 있습니다. いる",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -3660,7 +3969,8 @@
         "example_jp": "コップに水を入れる。",
         "example_ko": "컵에 물을 넣다.",
         "extra_json": null,
-        "raw_ocr": "入れる 넣다 コップに水を入れる。 컵에 물을 넣다. いれる"
+        "raw_ocr": "入れる 넣다 コップに水を入れる。 컵에 물을 넣다. いれる",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -3671,7 +3981,8 @@
         "example_jp": "歌を歌う。",
         "example_ko": "노래를 부르다.",
         "extra_json": null,
-        "raw_ocr": "歌う 노래하다 歌を歌う。 노래를 부르다. うたう"
+        "raw_ocr": "歌う 노래하다 歌を歌う。 노래를 부르다. うたう",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -3682,7 +3993,8 @@
         "example_jp": "女の子が生まれる。",
         "example_ko": "여자 아이가 태어나다.",
         "extra_json": null,
-        "raw_ocr": "生まれる 태어나다 女の子が生まれる。 여자 아이가 태어나다. うまれる"
+        "raw_ocr": "生まれる 태어나다 女の子が生まれる。 여자 아이가 태어나다. うまれる",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -3693,7 +4005,8 @@
         "example_jp": "安く売る。",
         "example_ko": "싸게 팔다.",
         "extra_json": null,
-        "raw_ocr": "売る 팔다 安く売る。 싸게 팔다. うる"
+        "raw_ocr": "売る 팔다 安く売る。 싸게 팔다. うる",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -3704,7 +4017,8 @@
         "example_jp": "毎朝6時に起きる。",
         "example_ko": "매일 아침 6시에 일어난다.",
         "extra_json": null,
-        "raw_ocr": "起きる 일어나다 毎朝6時に起きる。 매일 아침 6시에 일어난다. おきる"
+        "raw_ocr": "起きる 일어나다 毎朝6時に起きる。 매일 아침 6시에 일어난다. おきる",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -3715,7 +4029,8 @@
         "example_jp": "テーブルの上に新聞を置く。",
         "example_ko": "테이블 위에 신문을 두다.",
         "extra_json": null,
-        "raw_ocr": "置く 놓다. 두다 テーブルの上に新聞を置く。 테이블 위에 신문을 두다. おく"
+        "raw_ocr": "置く 놓다. 두다 テーブルの上に新聞を置く。 테이블 위에 신문을 두다. おく",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -3726,7 +4041,8 @@
         "example_jp": "ピアノを教える。",
         "example_ko": "피아노를 가르치다.",
         "extra_json": null,
-        "raw_ocr": "教える 가르치다 ピアノを教える。 피아노를 가르치다. おしえる"
+        "raw_ocr": "教える 가르치다 ピアノを教える。 피아노를 가르치다. おしえる",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -3737,7 +4053,8 @@
         "example_jp": "ドアを押して開ける。",
         "example_ko": "문을 밀어서 열다.",
         "extra_json": null,
-        "raw_ocr": "押す 누르다. 밀다 ドアを押して開ける。 문을 밀어서 열다. おす"
+        "raw_ocr": "押す 누르다. 밀다 ドアを押して開ける。 문을 밀어서 열다. おす",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -3748,7 +4065,8 @@
         "example_jp": "名前を覚える。",
         "example_ko": "이름을 외우다.",
         "extra_json": null,
-        "raw_ocr": "覚える 기억하다. 외우다 名前を覚える。 이름을 외우다. おぼえる"
+        "raw_ocr": "覚える 기억하다. 외우다 名前を覚える。 이름을 외우다. おぼえる",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -3759,7 +4077,8 @@
         "example_jp": "海で泳ぐ。",
         "example_ko": "바다에서 헤엄치다.",
         "extra_json": null,
-        "raw_ocr": "泳ぐ 헤엄치다 海で泳ぐ。 바다에서 헤엄치다. およぐ"
+        "raw_ocr": "泳ぐ 헤엄치다 海で泳ぐ。 바다에서 헤엄치다. およぐ",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -3770,7 +4089,8 @@
         "example_jp": "階段を降りる。",
         "example_ko": "계단을 내려가다.",
         "extra_json": null,
-        "raw_ocr": "降りる 내리다. 내려가다 階段を降りる。 계단을 내려가다. おりる"
+        "raw_ocr": "降りる 내리다. 내려가다 階段を降りる。 계단을 내려가다. おりる",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -3781,7 +4101,8 @@
         "example_jp": "夏休みが終わる。",
         "example_ko": "여름 휴가가 끝나다.",
         "extra_json": null,
-        "raw_ocr": "終わる 끝나다 夏休みが終わる。 여름 휴가가 끝나다. おわる"
+        "raw_ocr": "終わる 끝나다 夏休みが終わる。 여름 휴가가 끝나다. おわる",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -3792,7 +4113,8 @@
         "example_jp": "たばこを買う。",
         "example_ko": "담배를 사다.",
         "extra_json": null,
-        "raw_ocr": "買う 사다 たばこを買う。 담배를 사다. かう"
+        "raw_ocr": "買う 사다 たばこを買う。 담배를 사다. かう",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -3803,7 +4125,8 @@
         "example_jp": "図書館に本を返す。",
         "example_ko": "도서관에 책을 반납하다.",
         "extra_json": null,
-        "raw_ocr": "返す 돌려주다. 반납하다 図書館に本を返す。 도서관에 책을 반납하다. かえす"
+        "raw_ocr": "返す 돌려주다. 반납하다 図書館に本を返す。 도서관에 책을 반납하다. かえす",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -3814,7 +4137,8 @@
         "example_jp": "家に帰る。",
         "example_ko": "집으로 돌아가다.",
         "extra_json": null,
-        "raw_ocr": "帰る 돌아가다. 돌아오다 家に帰る。 집으로 돌아가다. かえる"
+        "raw_ocr": "帰る 돌아가다. 돌아오다 家に帰る。 집으로 돌아가다. かえる",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -3825,7 +4149,8 @@
         "example_jp": "家から会社まで1時間かかる。",
         "example_ko": "집에서 회사까지 1시간 걸린다.",
         "extra_json": null,
-        "raw_ocr": "かかる 걸리다 家から会社まで1時間かかる。 집에서 회사까지 1시간 걸린다."
+        "raw_ocr": "かかる 걸리다 家から会社まで1時間かかる。 집에서 회사까지 1시간 걸린다.",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -3836,7 +4161,8 @@
         "example_jp": "紙に名前を書く。",
         "example_ko": "종이에 이름을 쓰다.",
         "extra_json": null,
-        "raw_ocr": "書く 쓰다 紙に名前を書く。 종이에 이름을 쓰다. かく"
+        "raw_ocr": "書く 쓰다 紙に名前を書く。 종이에 이름을 쓰다. かく",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -3847,7 +4173,8 @@
         "example_jp": "お金を貸す。",
         "example_ko": "돈을 빌려주다.",
         "extra_json": null,
-        "raw_ocr": "貸す 빌려주다 お金を貸す。 돈을 빌려주다. かす"
+        "raw_ocr": "貸す 빌려주다 お金を貸す。 돈을 빌려주다. かす",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -3858,7 +4185,8 @@
         "example_jp": "帽子をかぶる。",
         "example_ko": "모자를 쓰다.",
         "extra_json": null,
-        "raw_ocr": "かぶる (모자를) 쓰다 帽子をかぶる。 모자를 쓰다."
+        "raw_ocr": "かぶる (모자를) 쓰다 帽子をかぶる。 모자를 쓰다.",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -3869,7 +4197,8 @@
         "example_jp": "図書館で本を借りる。",
         "example_ko": "도서관에서 책을 빌리다.",
         "extra_json": null,
-        "raw_ocr": "借りる 빌리다 図書館で本を借りる。 도서관에서 책을 빌리다. かりる"
+        "raw_ocr": "借りる 빌리다 図書館で本を借りる。 도서관에서 책을 빌리다. かりる",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -3880,7 +4209,8 @@
         "example_jp": "火が消える。",
         "example_ko": "불이 꺼지다.",
         "extra_json": null,
-        "raw_ocr": "消える 사라지다. 꺼지다 火が消える。 불이 꺼지다. きえる"
+        "raw_ocr": "消える 사라지다. 꺼지다 火が消える。 불이 꺼지다. きえる",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -3891,7 +4221,8 @@
         "example_jp": "ニュースを聞く。",
         "example_ko": "뉴스를 듣다.",
         "extra_json": null,
-        "raw_ocr": "聞く 듣다 ニュースを聞く。 뉴스를 듣다. きく"
+        "raw_ocr": "聞く 듣다 ニュースを聞く。 뉴스를 듣다. きく",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -3902,7 +4233,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "聞く 묻다 きく"
+        "raw_ocr": "聞く 묻다 きく",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -3913,7 +4245,8 @@
         "example_jp": "友だちが遊びに来る。",
         "example_ko": "친구가 놀러오다.",
         "extra_json": null,
-        "raw_ocr": "来る 오다 友だちが遊びに来る。 친구가 놀러오다. くる"
+        "raw_ocr": "来る 오다 友だちが遊びに来る。 친구가 놀러오다. くる",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -3924,7 +4257,8 @@
         "example_jp": "テレビを消す。",
         "example_ko": "텔레비전을 끄다.",
         "extra_json": null,
-        "raw_ocr": "消す 지우다. 끄다 テレビを消す。 텔레비전을 끄다. けす"
+        "raw_ocr": "消す 지우다. 끄다 テレビを消す。 텔레비전을 끄다. けす",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -3935,7 +4269,8 @@
         "example_jp": "大きな声で答える。",
         "example_ko": "큰 소리로 대답하다.",
         "extra_json": null,
-        "raw_ocr": "答える 대답하다 大きな声で答える。 큰 소리로 대답하다. こたえる"
+        "raw_ocr": "答える 대답하다 大きな声で答える。 큰 소리로 대답하다. こたえる",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -3946,7 +4281,8 @@
         "example_jp": "お金に困る。",
         "example_ko": "돈에 어려움을 겪다.",
         "extra_json": null,
-        "raw_ocr": "困る 곤란하다. 어려움을 겪다 お金に困る。 돈에 어려움을 겪다. こまる"
+        "raw_ocr": "困る 곤란하다. 어려움을 겪다 お金に困る。 돈에 어려움을 겪다. こまる",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -3957,7 +4293,8 @@
         "example_jp": "庭に花が咲く。",
         "example_ko": "정원에 꽃이 피다.",
         "extra_json": null,
-        "raw_ocr": "咲く 꽃이 피다 庭に花が咲く。 정원에 꽃이 피다. さく"
+        "raw_ocr": "咲く 꽃이 피다 庭に花が咲く。 정원에 꽃이 피다. さく",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -3968,7 +4305,8 @@
         "example_jp": "病気で死ぬ。",
         "example_ko": "병으로 죽다.",
         "extra_json": null,
-        "raw_ocr": "死ぬ 죽다 病気で死ぬ。 병으로 죽다. しぬ"
+        "raw_ocr": "死ぬ 죽다 病気で死ぬ。 병으로 죽다. しぬ",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -3979,7 +4317,8 @@
         "example_jp": "ドアが閉まる。",
         "example_ko": "문이 닫히다.",
         "extra_json": null,
-        "raw_ocr": "閉まる 닫히다 ドアが閉まる。 문이 닫히다. しまる"
+        "raw_ocr": "閉まる 닫히다 ドアが閉まる。 문이 닫히다. しまる",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -3990,7 +4329,8 @@
         "example_jp": "ネクタイを締める。",
         "example_ko": "넥타이를 매다.",
         "extra_json": null,
-        "raw_ocr": "締める (끈, 넥타이를) 매다 ネクタイを締める。 넥타이를 매다. しめる"
+        "raw_ocr": "締める (끈, 넥타이를) 매다 ネクタイを締める。 넥타이를 매다. しめる",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -4001,7 +4341,8 @@
         "example_jp": "窓を閉めて寝る。",
         "example_ko": "창문을 닫고 자다.",
         "extra_json": null,
-        "raw_ocr": "閉める 닫다 窓を閉めて寝る。 창문을 닫고 자다. しめる"
+        "raw_ocr": "閉める 닫다 窓を閉めて寝る。 창문을 닫고 자다. しめる",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -4012,7 +4353,8 @@
         "example_jp": "たばこを吸う。",
         "example_ko": "담배를 피우다.",
         "extra_json": null,
-        "raw_ocr": "吸う 들이마시다 たばこを吸う。 담배를 피우다. すう"
+        "raw_ocr": "吸う 들이마시다 たばこを吸う。 담배를 피우다. すう",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -4023,7 +4365,8 @@
         "example_jp": "東京に住んでいる。",
         "example_ko": "도쿄에 살고 있다.",
         "extra_json": null,
-        "raw_ocr": "住む 살다. 거주하다 東京に住んでいる。 도쿄에 살고 있다. すむ"
+        "raw_ocr": "住む 살다. 거주하다 東京に住んでいる。 도쿄에 살고 있다. すむ",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -4034,7 +4377,8 @@
         "example_jp": "食事をする。",
         "example_ko": "식사를 하다.",
         "extra_json": null,
-        "raw_ocr": "する 하다 食事をする。 식사를 하다."
+        "raw_ocr": "する 하다 食事をする。 식사를 하다.",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -4045,7 +4389,8 @@
         "example_jp": "いすに座る。",
         "example_ko": "의자에 앉다.",
         "extra_json": null,
-        "raw_ocr": "座る 앉다 いすに座る。 의자에 앉다. すわる"
+        "raw_ocr": "座る 앉다 いすに座る。 의자에 앉다. すわる",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -4056,7 +4401,8 @@
         "example_jp": "かばんから本を出す。",
         "example_ko": "가방에서 책을 꺼내다.",
         "extra_json": null,
-        "raw_ocr": "出す 내다. 꺼내다 かばんから本を出す。 가방에서 책을 꺼내다. だす"
+        "raw_ocr": "出す 내다. 꺼내다 かばんから本を出す。 가방에서 책을 꺼내다. だす",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -4067,7 +4413,8 @@
         "example_jp": "ドアの前に立つ。",
         "example_ko": "문 앞에 서다.",
         "extra_json": null,
-        "raw_ocr": "立つ 서다. 일어서다 ドアの前に立つ。 문 앞에 서다. たつ"
+        "raw_ocr": "立つ 서다. 일어서다 ドアの前に立つ。 문 앞에 서다. たつ",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -4078,7 +4425,8 @@
         "example_jp": "ご飯を食べる。",
         "example_ko": "밥을 먹다.",
         "extra_json": null,
-        "raw_ocr": "食べる 먹다 ご飯を食べる。 밥을 먹다. たべる"
+        "raw_ocr": "食べる 먹다 ご飯を食べる。 밥을 먹다. たべる",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -4089,7 +4437,8 @@
         "example_jp": "ボールペンを使って書く。",
         "example_ko": "볼펜을 사용해서 쓰다.",
         "extra_json": null,
-        "raw_ocr": "使う 사용하다 ボールペンを使って書く 볼펜을 사용해서 쓰다. つかう"
+        "raw_ocr": "使う 사용하다 ボールペンを使って書く 볼펜을 사용해서 쓰다. つかう",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -4100,7 +4449,8 @@
         "example_jp": "木でいすを作る。",
         "example_ko": "나무로 의자를 만들다.",
         "extra_json": null,
-        "raw_ocr": "作る 만들다 木でいすを作る。 나무로 의자를 만들다. つくる"
+        "raw_ocr": "作る 만들다 木でいすを作る。 나무로 의자를 만들다. つくる",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -4111,7 +4461,8 @@
         "example_jp": "買い物に出かける。",
         "example_ko": "쇼핑하러 나가다.",
         "extra_json": null,
-        "raw_ocr": "出かける 나가다. 외출하다 買い物に出かける。 쇼핑하러 나가다. でかける"
+        "raw_ocr": "出かける 나가다. 외출하다 買い物に出かける。 쇼핑하러 나가다. でかける",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -4122,7 +4473,8 @@
         "example_jp": "朝早く家を出る。",
         "example_ko": "아침 일찍 집을 나서다.",
         "extra_json": null,
-        "raw_ocr": "出る 나오다. 나가다 朝早く家を出る。 아침 일찍 집을 나서다. でる"
+        "raw_ocr": "出る 나오다. 나가다 朝早く家を出る。 아침 일찍 집을 나서다. でる",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -4133,7 +4485,8 @@
         "example_jp": "鳥が空を飛ぶ。",
         "example_ko": "새가 하늘을 날다.",
         "extra_json": null,
-        "raw_ocr": "飛ぶ 날다 鳥が空を飛ぶ。 새가 하늘을 날다. とぶ"
+        "raw_ocr": "飛ぶ 날다 鳥が空を飛ぶ。 새가 하늘을 날다. とぶ",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -4144,7 +4497,8 @@
         "example_jp": "写真を撮る。",
         "example_ko": "사진을 찍다.",
         "extra_json": null,
-        "raw_ocr": "撮る (사진을) 찍다 写真を撮る 写真을 찍다. とる"
+        "raw_ocr": "撮る (사진을) 찍다 写真を撮る 写真을 찍다. とる",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -4155,7 +4509,8 @@
         "example_jp": "アメリカ人に英語を習う。",
         "example_ko": "미국인에게 영어를 배우다.",
         "extra_json": null,
-        "raw_ocr": "習う 배우다 アメリカ人に英語を習う。 미국인에게 영어를 배우다. ならう"
+        "raw_ocr": "習う 배우다 アメリカ人に英語を習う。 미국인에게 영어를 배우다. ならう",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -4166,7 +4521,8 @@
         "example_jp": "いすを並べる。",
         "example_ko": "의자를 늘어놓다.",
         "extra_json": null,
-        "raw_ocr": "並べる 늘어놓다. 진열하다 いすを並べる。 의자를 늘어놓다. ならべる"
+        "raw_ocr": "並べる 늘어놓다. 진열하다 いすを並べる。 의자를 늘어놓다. ならべる",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -4177,7 +4533,8 @@
         "example_jp": "もう寝る時間です。",
         "example_ko": "이제 잘 시간입니다.",
         "extra_json": null,
-        "raw_ocr": "寝る 자다 もう寝る時間です。 이제 잘 시간입니다. ねる"
+        "raw_ocr": "寝る 자다 もう寝る時間です。 이제 잘 시간입니다. ねる",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -4188,7 +4545,8 @@
         "example_jp": "山に登る。",
         "example_ko": "산에 오르다.",
         "extra_json": null,
-        "raw_ocr": "登る 오르다 山に登る 산에 오르다. のぼる"
+        "raw_ocr": "登る 오르다 山に登る 산에 오르다. のぼる",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -4199,7 +4557,8 @@
         "example_jp": "水を飲む。",
         "example_ko": "물을 마시다.",
         "extra_json": null,
-        "raw_ocr": "飲む 마시다 水を飲む 물을 마시다. のむ"
+        "raw_ocr": "飲む 마시다 水を飲む 물을 마시다. のむ",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -4210,7 +4569,8 @@
         "example_jp": "電車に乗る。",
         "example_ko": "전철을 타다.",
         "extra_json": null,
-        "raw_ocr": "乗る (교통수단을) 타다 電車に乗る。 전철을 타다. のる"
+        "raw_ocr": "乗る (교통수단을) 타다 電車に乗る。 전철을 타다. のる",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -4221,7 +4581,8 @@
         "example_jp": "部屋に入る。",
         "example_ko": "방에 들어가다.",
         "extra_json": null,
-        "raw_ocr": "入る 들어가다. 들어오다 部屋に入る。 방에 들어가다. はいる"
+        "raw_ocr": "入る 들어가다. 들어오다 部屋に入る。 방에 들어가다. はいる",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -4232,7 +4593,8 @@
         "example_jp": "学校が始まる。",
         "example_ko": "학교가 시작되다.",
         "extra_json": null,
-        "raw_ocr": "始まる 시작되다 学校が始まる。 학교가 시작되다. はじまる"
+        "raw_ocr": "始まる 시작되다 学校が始まる。 학교가 시작되다. はじまる",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -4243,7 +4605,8 @@
         "example_jp": "友だちと話す。",
         "example_ko": "친구와 이야기하다.",
         "extra_json": null,
-        "raw_ocr": "話す 이야기하다 友だちと話す。 친구와 이야기하다. はなす"
+        "raw_ocr": "話す 이야기하다 友だちと話す。 친구와 이야기하다. はなす",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -4254,7 +4617,8 @@
         "example_jp": "ピアノを弾く。",
         "example_ko": "피아노를 치다.",
         "extra_json": null,
-        "raw_ocr": "弾く 연주하다. 치다 ピアノを弾く。 피아노를 치다. ひく"
+        "raw_ocr": "弾く 연주하다. 치다 ピアノを弾く。 피아노를 치다. ひく",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -4265,7 +4629,8 @@
         "example_jp": "雪が降っている。",
         "example_ko": "눈이 내리고 있다.",
         "extra_json": null,
-        "raw_ocr": "降る (눈, 비가) 내리다 雪が降っている。 눈이 내리고 있다. ふる"
+        "raw_ocr": "降る (눈, 비가) 내리다 雪が降っている。 눈이 내리고 있다. ふる",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -4276,7 +4641,8 @@
         "example_jp": "角を左に曲がる。",
         "example_ko": "모퉁이를 왼쪽으로 돌다.",
         "extra_json": null,
-        "raw_ocr": "曲がる 구부러지다. 굽다. 돌다 角を左に曲がる。 모퉁이를 왼쪽으로 돌다. まがる"
+        "raw_ocr": "曲がる 구부러지다. 굽다. 돌다 角を左に曲がる。 모퉁이를 왼쪽으로 돌다. まがる",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -4287,7 +4653,8 @@
         "example_jp": "ここで待っています。",
         "example_ko": "여기서 기다리고 있습니다.",
         "extra_json": null,
-        "raw_ocr": "待つ 기다리다 ここで待っています。 여기서 기다리고 있습니다. まつ"
+        "raw_ocr": "待つ 기다리다 ここで待っています。 여기서 기다리고 있습니다. まつ",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -4298,7 +4665,8 @@
         "example_jp": "くつを磨く。",
         "example_ko": "신발을 닦다.",
         "extra_json": null,
-        "raw_ocr": "磨く 닦다 くつを磨く。 신발을 닦다. みがく"
+        "raw_ocr": "磨く 닦다 くつを磨く。 신발을 닦다. みがく",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -4309,7 +4677,8 @@
         "example_jp": "友だちに写真を見せる。",
         "example_ko": "친구에게 사진을 보여주다.",
         "extra_json": null,
-        "raw_ocr": "見せる 보여주다 友だちに写真を見せる。 친구에게 사진을 보여주다. みせる"
+        "raw_ocr": "見せる 보여주다 友だちに写真を見せる。 친구에게 사진을 보여주다. みせる",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -4320,7 +4689,8 @@
         "example_jp": "テレビを見る。",
         "example_ko": "텔레비전을 보다.",
         "extra_json": null,
-        "raw_ocr": "見る 보다 テレビを見る。 텔레비전을 보다. みる"
+        "raw_ocr": "見る 보다 テレビを見る。 텔레비전을 보다. みる",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -4331,7 +4701,8 @@
         "example_jp": "かばんを持って出かける。",
         "example_ko": "가방을 들고 외출하다.",
         "extra_json": null,
-        "raw_ocr": "持つ 들다. 가지다. 소유하다 かばんを持って出かける。 가방을 들고 외출하다. もつ"
+        "raw_ocr": "持つ 들다. 가지다. 소유하다 かばんを持って出かける。 가방을 들고 외출하다. もつ",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -4342,7 +4713,8 @@
         "example_jp": "誕生日にプレゼントをもらう。",
         "example_ko": "생일에 선물을 받다.",
         "extra_json": null,
-        "raw_ocr": "もらう 받다 誕生日にプレゼントをもらう 생일에 선물을 받다."
+        "raw_ocr": "もらう 받다 誕生日にプレゼントをもらう 생일에 선물을 받다.",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -4353,7 +4725,8 @@
         "example_jp": "風邪で学校を休む。",
         "example_ko": "감기로 학교를 쉬다.",
         "extra_json": null,
-        "raw_ocr": "休む 쉬다 風邪で学校を休む。 감기로 학교를 쉬다. やすむ"
+        "raw_ocr": "休む 쉬다 風邪で学校を休む。 감기로 학교를 쉬다. やすむ",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -4364,7 +4737,8 @@
         "example_jp": "名前を呼ぶ。",
         "example_ko": "이름을 부르다.",
         "extra_json": null,
-        "raw_ocr": "呼ぶ 부르다. 초대하다 名前を呼ぶ。 이름을 부르다. よぶ"
+        "raw_ocr": "呼ぶ 부르다. 초대하다 名前を呼ぶ。 이름을 부르다. よぶ",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -4375,7 +4749,8 @@
         "example_jp": "新聞を読む。",
         "example_ko": "신문을 읽다.",
         "extra_json": null,
-        "raw_ocr": "読む 읽다 新聞を読む。 신문을 읽다. よむ"
+        "raw_ocr": "読む 읽다 新聞を読む。 신문을 읽다. よむ",
+        "level": "N5"
     },
     {
         "section": "동사",
@@ -4386,7 +4761,8 @@
         "example_jp": "言いたいことはよく分かります。",
         "example_ko": "하고 싶은 말은 잘 알겠습니다.",
         "extra_json": null,
-        "raw_ocr": "分かる 알다. 이해하다 言いたいことはよく分かります。 하고 싶은 말은 잘 알겠습니다. わかる"
+        "raw_ocr": "分かる 알다. 이해하다 言いたいことはよく分かります。 하고 싶은 말은 잘 알겠습니다. わかる",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -4397,7 +4773,8 @@
         "example_jp": "空が青い。",
         "example_ko": "하늘이 파랗다.",
         "extra_json": null,
-        "raw_ocr": "青い 푸르다. 파랗다 空が青い。 하늘이 파랗다. あおい"
+        "raw_ocr": "青い 푸르다. 파랗다 空が青い。 하늘이 파랗다. あおい",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -4408,7 +4785,8 @@
         "example_jp": "顔が赤くなる。",
         "example_ko": "얼굴이 붉어지다.",
         "extra_json": null,
-        "raw_ocr": "赤い 붉다. 빨갛다 顔が赤くなる。 얼굴이 붉어지다. あかい"
+        "raw_ocr": "赤い 붉다. 빨갛다 顔が赤くなる。 얼굴이 붉어지다. あかい",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -4422,7 +4800,8 @@
             "antonym_word": "暗い",
             "antonym_meaning": "어둡다"
         },
-        "raw_ocr": "明るい 밝다. 명랑하다 - 暗い 어둡다 部屋が明るい。 방이 밝다. あかるい"
+        "raw_ocr": "明るい 밝다. 명랑하다 - 暗い 어둡다 部屋が明るい。 방이 밝다. あかるい",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -4433,7 +4812,8 @@
         "example_jp": "暖かい春が来た。",
         "example_ko": "따뜻한 봄이 왔다.",
         "extra_json": null,
-        "raw_ocr": "暖かい 따뜻하다 暖かい春が来た。 따뜻한 봄이 왔다. あたたかい"
+        "raw_ocr": "暖かい 따뜻하다 暖かい春が来た。 따뜻한 봄이 왔다. あたたかい",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -4447,7 +4827,8 @@
             "antonym_word": "古い",
             "antonym_meaning": "낡다"
         },
-        "raw_ocr": "新しい 새롭다 - 古い 낡다. 오래 되다 新しい家に住む。 새집에 살다. あたらしい"
+        "raw_ocr": "新しい 새롭다 - 古い 낡다. 오래 되다 新しい家に住む。 새집에 살다. あたらしい",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -4461,7 +4842,8 @@
             "antonym_word": "寒い",
             "antonym_meaning": "춥다"
         },
-        "raw_ocr": "暑い 덥다 - 寒い 춥다 今年の夏は暑い。 금년여름은 덥다. あつい"
+        "raw_ocr": "暑い 덥다 - 寒い 춥다 今年の夏は暑い。 금년여름은 덥다. あつい",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -4472,7 +4854,8 @@
         "example_jp": "道路で遊ぶのは危ない。",
         "example_ko": "도로에서 노는 것은 위험하다.",
         "extra_json": null,
-        "raw_ocr": "危ない 위험하다 道路で遊ぶのは危ない 도로에서 노는 것은 위험하다. あぶない"
+        "raw_ocr": "危ない 위험하다 道路で遊ぶのは危ない 도로에서 노는 것은 위험하다. あぶない",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -4483,7 +4866,8 @@
         "example_jp": "このケーキは甘い。",
         "example_ko": "이 케이크는 달다.",
         "extra_json": null,
-        "raw_ocr": "甘い 달다 このケーキは甘い。 이 케이크는 달다. あまい"
+        "raw_ocr": "甘い 달다 このケーキは甘い。 이 케이크는 달다. あまい",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -4497,7 +4881,8 @@
             "antonym_word": "悪い",
             "antonym_meaning": "나쁘다"
         },
-        "raw_ocr": "いいよい 좋다 - 悪い 나쁘다 天気がいい。 날씨가 좋다."
+        "raw_ocr": "いいよい 좋다 - 悪い 나쁘다 天気がいい。 날씨가 좋다.",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -4511,7 +4896,8 @@
             "antonym_word": "ひまだ",
             "antonym_meaning": "한가하다"
         },
-        "raw_ocr": "忙しい 바쁘다 - ひまだ 한가롭다 仕事で忙しい。 업무로 바쁘다. いそがしい"
+        "raw_ocr": "忙しい 바쁘다 - ひまだ 한가롭다 仕事で忙しい。 업무로 바쁘다. いそがしい",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -4522,7 +4908,8 @@
         "example_jp": "頭が痛い。",
         "example_ko": "머리가 아프다.",
         "extra_json": null,
-        "raw_ocr": "痛い 아프다 頭が痛い 머리가 아프다. いたい"
+        "raw_ocr": "痛い 아프다 頭が痛い 머리가 아프다. いたい",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -4536,7 +4923,8 @@
             "antonym_word": "厚い",
             "antonym_meaning": "두껍다"
         },
-        "raw_ocr": "薄い 얇다 - 厚い 두껍다 肉を薄く切る。 고기를 얇게 자르다. うすい"
+        "raw_ocr": "薄い 얇다 - 厚い 두껍다 肉を薄く切る。 고기를 얇게 자르다. うすい",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -4550,7 +4938,8 @@
             "antonym_word": "静かだ",
             "antonym_meaning": "조용하다"
         },
-        "raw_ocr": "うるさい 시끄럽다 - 静かだ 조용하다 電車の音がうるさい 전차 소리가 시끄럽다."
+        "raw_ocr": "うるさい 시끄럽다 - 静かだ 조용하다 電車の音がうるさい 전차 소리가 시끄럽다.",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -4564,7 +4953,8 @@
             "antonym_word": "まずい",
             "antonym_meaning": "맛없다"
         },
-        "raw_ocr": "おいしい 맛있다 - まずい 맛없다 この料理はおいしい 이 요리는 맛있다."
+        "raw_ocr": "おいしい 맛있다 - まずい 맛없다 この料理はおいしい 이 요리는 맛있다.",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -4578,7 +4968,8 @@
             "antonym_word": "少ない",
             "antonym_meaning": "적다"
         },
-        "raw_ocr": "多い 많다 - 少ない 적다 夏は雨が多い。 여름은 비가 많다. おおい"
+        "raw_ocr": "多い 많다 - 少ない 적다 夏は雨が多い。 여름은 비가 많다. おおい",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -4592,7 +4983,8 @@
             "antonym_word": "小さい",
             "antonym_meaning": "작다"
         },
-        "raw_ocr": "大きい 크다 - 小さい 작다 字を大きく書く。 글씨를 크게 쓰다. おおきい"
+        "raw_ocr": "大きい 크다 - 小さい 작다 字を大きく書く。 글씨를 크게 쓰다. おおきい",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -4606,7 +4998,8 @@
             "antonym_word": "早い",
             "antonym_meaning": "이르다"
         },
-        "raw_ocr": "遅い 늦다 - 早い(시간) 이르다 おそい"
+        "raw_ocr": "遅い 늦다 - 早い(시간) 이르다 おそい",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -4620,7 +5013,8 @@
             "antonym_word": "速い",
             "antonym_meaning": "빠르다"
         },
-        "raw_ocr": "遅い 느리다 - 速い(속도) 빠르다 食べるのが遅い。 먹는 것이 느리다. おそい"
+        "raw_ocr": "遅い 느리다 - 速い(속도) 빠르다 食べるのが遅い。 먹는 것이 느리다. おそい",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -4634,7 +5028,8 @@
             "antonym_word": "軽い",
             "antonym_meaning": "가볍다"
         },
-        "raw_ocr": "重い 무겁다 - 軽い 가볍다 このかばんは重い。 이 가방은 무겁다. おもい"
+        "raw_ocr": "重い 무겁다 - 軽い 가볍다 このかばんは重い。 이 가방은 무겁다. おもい",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -4648,7 +5043,8 @@
             "antonym_word": "つまらない",
             "antonym_meaning": "지루하다"
         },
-        "raw_ocr": "おもしろい 재미있다 - つまらない 지루하다 昨日見た映画はおもしろかった。 어제 본 영화는 재미있었다."
+        "raw_ocr": "おもしろい 재미있다 - つまらない 지루하다 昨日見た映画はおもしろかった。 어제 본 영화는 재미있었다.",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -4659,7 +5055,8 @@
         "example_jp": "わたしは辛い食べ物が好きだ。",
         "example_ko": "나는 매운 음식을 좋아한다.",
         "extra_json": null,
-        "raw_ocr": "辛い 맵다 わたしは早い食べ物が好きだ。 나는 매운 음식을 좋아한다. からい"
+        "raw_ocr": "辛い 맵다 わたしは早い食べ物が好きだ。 나는 매운 음식을 좋아한다. からい",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -4670,7 +5067,8 @@
         "example_jp": "このいすは軽い。",
         "example_ko": "이 의자는 가볍다.",
         "extra_json": null,
-        "raw_ocr": "軽い 가볍다 このいすは軽い。 이 의자는 가볍다. かるい"
+        "raw_ocr": "軽い 가볍다 このいすは軽い。 이 의자는 가볍다. かるい",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -4681,7 +5079,8 @@
         "example_jp": "かわいい声で歌う。",
         "example_ko": "귀여운 목소리로 노래하다.",
         "extra_json": null,
-        "raw_ocr": "かわいい 귀엽다. 사랑스럽다 かわいい声で歌う。 귀여운 목소리로 노래하다."
+        "raw_ocr": "かわいい 귀엽다. 사랑스럽다 かわいい声で歌う。 귀여운 목소리로 노래하다.",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -4692,7 +5091,8 @@
         "example_jp": "黄色い花が咲く。",
         "example_ko": "노란 꽃이 피다.",
         "extra_json": null,
-        "raw_ocr": "黄色い 노랗다 黄色い花が咲く。 노란 꽃이 피다. きいろい"
+        "raw_ocr": "黄色い 노랗다 黄色い花が咲く。 노란 꽃이 피다. きいろい",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -4706,7 +5106,8 @@
             "antonym_word": "きれいだ",
             "antonym_meaning": "깨끗하다"
         },
-        "raw_ocr": "汚い 더렵다. 지저분하다 - きれいだ 깨끗하다 部屋が汚い。 방이 지저분하다 きたない"
+        "raw_ocr": "汚い 더렵다. 지저분하다 - きれいだ 깨끗하다 部屋が汚い。 방이 지저분하다 きたない",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -4720,7 +5121,8 @@
             "antonym_word": "明るい",
             "antonym_meaning": "밝다"
         },
-        "raw_ocr": "暗い 어둡다 - 明るい 밝다 くらい"
+        "raw_ocr": "暗い 어둡다 - 明るい 밝다 くらい",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -4731,7 +5133,8 @@
         "example_jp": "黒いスーツを買う。",
         "example_ko": "검은 정장을 사다.",
         "extra_json": null,
-        "raw_ocr": "黒い 검다 黒いスーツを買う。 검은 정장을 사다. くろい"
+        "raw_ocr": "黒い 검다 黒いスーツを買う。 검은 정장을 사다. くろい",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -4745,7 +5148,8 @@
             "antonym_word": "暑い",
             "antonym_meaning": "덥다"
         },
-        "raw_ocr": "寒い 춥다 - 暑い 덥다 冬は寒い。 겨울은 춥다. さむい"
+        "raw_ocr": "寒い 춥다 - 暑い 덥다 冬は寒い。 겨울은 춥다. さむい",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -4756,7 +5160,8 @@
         "example_jp": "白い雪が降る。",
         "example_ko": "흰 눈이 내린다.",
         "extra_json": null,
-        "raw_ocr": "白い 희다 白い雪が降る。 흰 눈이 내린다. しろい"
+        "raw_ocr": "白い 희다 白い雪が降る。 흰 눈이 내린다. しろい",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -4770,7 +5175,8 @@
             "antonym_word": "多い",
             "antonym_meaning": "많다"
         },
-        "raw_ocr": "少ない 적다 - 多い 많다 この会社は休みが少ない。 이 회사는 휴일이 적다. すくない"
+        "raw_ocr": "少ない 적다 - 多い 많다 この会社は休みが少ない。 이 회사는 휴일이 적다. すくない",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -4784,7 +5190,8 @@
             "antonym_word": "広い",
             "antonym_meaning": "넓다"
         },
-        "raw_ocr": "狭い 좁다 - 広い 넓다 わたしの部屋は狭い。 내 방은 좁다. せまい"
+        "raw_ocr": "狭い 좁다 - 広い 넓다 わたしの部屋は狭い。 내 방은 좁다. せまい",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -4798,7 +5205,8 @@
             "antonym_word": "低い",
             "antonym_meaning": "낮다"
         },
-        "raw_ocr": "高い 높다 - 低い 낮다 あの山は高い。 저 산은 높다. たかい"
+        "raw_ocr": "高い 높다 - 低い 낮다 あの山は高い。 저 산은 높다. たかい",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -4812,7 +5220,8 @@
             "antonym_word": "安い",
             "antonym_meaning": "싸다"
         },
-        "raw_ocr": "高い 비싸다 - 安い 싸다 このかばんは高い。 이 가방은 비싸다. たかい"
+        "raw_ocr": "高い 비싸다 - 安い 싸다 このかばんは高い。 이 가방은 비싸다. たかい",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -4823,7 +5232,8 @@
         "example_jp": "友だちと遊んで楽しかった。",
         "example_ko": "친구와 놀아서 즐거웠다.",
         "extra_json": null,
-        "raw_ocr": "楽しい 즐겁다 友だちと遊んで楽しかった。 친구와 놀아서 즐거웠다. たのしい"
+        "raw_ocr": "楽しい 즐겁다 友だちと遊んで楽しかった。 친구와 놀아서 즐거웠다. たのしい",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -4837,7 +5247,8 @@
             "antonym_word": "大きい",
             "antonym_meaning": "크다"
         },
-        "raw_ocr": "小さい 작다 - 大きい 크다 小さい声で話す。 작은 목소리로 이야기하다. ちいさい"
+        "raw_ocr": "小さい 작다 - 大きい 크다 小さい声で話す。 작은 목소리로 이야기하다. ちいさい",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -4851,7 +5262,8 @@
             "antonym_word": "遠い",
             "antonym_meaning": "멀다"
         },
-        "raw_ocr": "近い 가깝다 - 遠い 멀다 会社は駅から近い。 회사는 역에서 가깝다. ちかい"
+        "raw_ocr": "近い 가깝다 - 遠い 멀다 会社は駅から近い。 회사는 역에서 가깝다. ちかい",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -4862,7 +5274,8 @@
         "example_jp": "この映画はつまらない。",
         "example_ko": "이 영화는 시시하다.",
         "extra_json": null,
-        "raw_ocr": "つまらない 시시하다. 재미없다 この映画はつまらない。 이 영화는 시시하다."
+        "raw_ocr": "つまらない 시시하다. 재미없다 この映画はつまらない。 이 영화는 시시하다.",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -4876,7 +5289,8 @@
             "antonym_word": "弱い",
             "antonym_meaning": "약하다"
         },
-        "raw_ocr": "強い 강하다 - 弱い 약하다 今日は風が強い。 오늘 바람이 강하다. つよい"
+        "raw_ocr": "強い 강하다 - 弱い 약하다 今日は風が強い。 오늘 바람이 강하다. つよい",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -4890,7 +5304,8 @@
             "antonym_word": "近い",
             "antonym_meaning": "가깝다"
         },
-        "raw_ocr": "遠い 멀다 - 近い 가깝다 学校は家から遠い。 학교는 집에서 멀다. とおい"
+        "raw_ocr": "遠い 멀다 - 近い 가깝다 学校は家から遠い。 학교는 집에서 멀다. とおい",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -4901,7 +5316,8 @@
         "example_jp": "時間がない。",
         "example_ko": "시간이 없다.",
         "extra_json": null,
-        "raw_ocr": "ない 없다 時間がない。 시간이 없다."
+        "raw_ocr": "ない 없다 時間がない。 시간이 없다.",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -4915,7 +5331,8 @@
             "antonym_word": "短い",
             "antonym_meaning": "짧다"
         },
-        "raw_ocr": "長い 길다 - 短い 짧다 電話で長く話す。 전화로 길게 이야기하다. ながい"
+        "raw_ocr": "長い 길다 - 短い 짧다 電話で長く話す。 전화로 길게 이야기하다. ながい",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -4926,7 +5343,8 @@
         "example_jp": "この車はスピードが速い。",
         "example_ko": "이 차는 속도가 빠르다.",
         "extra_json": null,
-        "raw_ocr": "速い 빠르다 この車はスピードが速い。 이 차는 속도가 빠르다. はやい"
+        "raw_ocr": "速い 빠르다 この車はスピードが速い。 이 차는 속도가 빠르다. はやい",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -4937,7 +5355,8 @@
         "example_jp": "朝早く起きる。",
         "example_ko": "아침 일찍 일어나다.",
         "extra_json": null,
-        "raw_ocr": "早い 이르다 朝早く起きる。 아침 일찍 일어나다. はやい"
+        "raw_ocr": "早い 이르다 朝早く起きる。 아침 일찍 일어나다. はやい",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -4951,7 +5370,8 @@
             "antonym_word": "高い",
             "antonym_meaning": "높다"
         },
-        "raw_ocr": "低い 낮다 - 高い 높다 田中さんは背が低い。 다나카 씨는 키가 작다. ひくい"
+        "raw_ocr": "低い 낮다 - 高い 높다 田中さんは背が低い。 다나카 씨는 키가 작다. ひくい",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -4965,7 +5385,8 @@
             "antonym_word": "狭い",
             "antonym_meaning": "좁다"
         },
-        "raw_ocr": "広い 넓다 - 狭い 좁다 家の前に広い公園がある。 집 앞에 넓은 공원이 있다. ひろい"
+        "raw_ocr": "広い 넓다 - 狭い 좁다 家の前に広い公園がある。 집 앞에 넓은 공원이 있다. ひろい",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -4979,7 +5400,8 @@
             "antonym_word": "新しい",
             "antonym_meaning": "새롭다"
         },
-        "raw_ocr": "古い 낡다. 오래되다 - 新しい 새롭다 かばんが古くなる。 가방이 낡아지다. ふるい"
+        "raw_ocr": "古い 낡다. 오래되다 - 新しい 새롭다 かばんが古くなる。 가방이 낡아지다. ふるい",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -4993,7 +5415,8 @@
             "antonym_word": "おいしい",
             "antonym_meaning": "맛있다"
         },
-        "raw_ocr": "まずい 맛이 없다 - おいしい 맛있다 まずくて食べたくない。 맛이 없어서 먹고 싶지 않다. まずい"
+        "raw_ocr": "まずい 맛이 없다 - おいしい 맛있다 まずくて食べたくない。 맛이 없어서 먹고 싶지 않다. まずい",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -5004,7 +5427,8 @@
         "example_jp": "ボールは丸い。",
         "example_ko": "공은 둥글다.",
         "extra_json": null,
-        "raw_ocr": "丸い 둥글다 ボールは丸い。 공은 둥글다. まるい"
+        "raw_ocr": "丸い 둥글다 ボールは丸い。 공은 둥글다. まるい",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -5018,7 +5442,8 @@
             "antonym_word": "長い",
             "antonym_meaning": "길다"
         },
-        "raw_ocr": "短い 짧다 - 長い 길다 髪を短く切る。 머리카락을 짧게 자르다. みじかい"
+        "raw_ocr": "短い 짧다 - 長い 길다 髪を短く切る。 머리카락을 짧게 자르다. みじかい",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -5032,7 +5457,8 @@
             "antonym_word": "やさしい",
             "antonym_meaning": "쉽다"
         },
-        "raw_ocr": "難しい 어렵다 - やさしい 쉽다 難しい漢字を書く。 어려운 한자를 쓰다. むずかしい"
+        "raw_ocr": "難しい 어렵다 - やさしい 쉽다 難しい漢字を書く。 어려운 한자를 쓰다. むずかしい",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -5046,7 +5472,8 @@
             "antonym_word": "高い",
             "antonym_meaning": "비싸다"
         },
-        "raw_ocr": "安い 싸다 - 高い 비싸다 この菓子は安くておいしい。 이 과자는 싸고 맛있다. やすい"
+        "raw_ocr": "安い 싸다 - 高い 비싸다 この菓子は安くておいしい。 이 과자는 싸고 맛있다. やすい",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -5060,7 +5487,8 @@
             "antonym_word": "強い",
             "antonym_meaning": "강하다"
         },
-        "raw_ocr": "弱い 약하다 - 強い 강하다 体が弱い。 몸이 약하다. よわい"
+        "raw_ocr": "弱い 약하다 - 強い 강하다 体が弱い。 몸이 약하다. よわい",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -5071,7 +5499,8 @@
         "example_jp": "年より若く見える。",
         "example_ko": "나이보다 젊게 보인다.",
         "extra_json": null,
-        "raw_ocr": "若い 젊다. 어리다 年より若く見える。 나이보다 젊게 보인다. わかい"
+        "raw_ocr": "若い 젊다. 어리다 年より若く見える。 나이보다 젊게 보인다. わかい",
+        "level": "N5"
     },
     {
         "section": "이형용사",
@@ -5085,7 +5514,8 @@
             "antonym_word": "いい",
             "antonym_meaning": "좋다"
         },
-        "raw_ocr": "悪い 나쁘다 - いい 좋다 天気が悪い。 날씨가 나쁘다. わるい"
+        "raw_ocr": "悪い 나쁘다 - いい 좋다 天気が悪い。 날씨가 나쁘다. わるい",
+        "level": "N5"
     },
     {
         "section": "나형용사",
@@ -5096,7 +5526,8 @@
         "example_jp": "あんなまずい店には行きたくない。",
         "example_ko": "저런 맛이 없는 가게에는 가고 싶지 않다.",
         "extra_json": null,
-        "raw_ocr": "あんな 저런 あんなまずい店には行きたくない。 저런 맛이 없는 가게에는 가고 싶지 않다."
+        "raw_ocr": "あんな 저런 あんなまずい店には行きたくない。 저런 맛이 없는 가게에는 가고 싶지 않다.",
+        "level": "N5"
     },
     {
         "section": "나형용사",
@@ -5107,7 +5538,8 @@
         "example_jp": "勉強がいやになる。",
         "example_ko": "공부가 싫어지다.",
         "extra_json": null,
-        "raw_ocr": "いやな 싫은 勉強がいやになる。 공부가 싫어지다."
+        "raw_ocr": "いやな 싫은 勉強がいやになる。 공부가 싫어지다.",
+        "level": "N5"
     },
     {
         "section": "나형용사",
@@ -5118,7 +5550,8 @@
         "example_jp": "いろいろな花が咲く。",
         "example_ko": "갖가지 꽃이 피다.",
         "extra_json": null,
-        "raw_ocr": "いろいろな 여러 가지, 갖가지 いろいろな花が咲く。 갖가지 꽃이 피다."
+        "raw_ocr": "いろいろな 여러 가지, 갖가지 いろいろな花が咲く。 갖가지 꽃이 피다.",
+        "level": "N5"
     },
     {
         "section": "나형용사",
@@ -5129,7 +5562,8 @@
         "example_jp": "大きな音がする。",
         "example_ko": "큰 소리가 난다.",
         "extra_json": null,
-        "raw_ocr": "大きな 큰, 커다란 大きな音がする。 큰 소리가 난다. おおきな"
+        "raw_ocr": "大きな 큰, 커다란 大きな音がする。 큰 소리가 난다. おおきな",
+        "level": "N5"
     },
     {
         "section": "나형용사",
@@ -5140,7 +5574,8 @@
         "example_jp": "兄と同じ学校に入学する。",
         "example_ko": "형과 같은 학교에 입학하다.",
         "extra_json": null,
-        "raw_ocr": "同じな 같은 兄と同じ学校に入学する。 형과 같은 학교에 입학하다. おなじな"
+        "raw_ocr": "同じな 같은 兄と同じ学校に入学する。 형과 같은 학교에 입학하다. おなじな",
+        "level": "N5"
     },
     {
         "section": "나형용사",
@@ -5151,7 +5586,8 @@
         "example_jp": "簡単に説明する。",
         "example_ko": "간단하게 설명하다.",
         "extra_json": null,
-        "raw_ocr": "簡単な 간단한 簡単に説明する。 간단하게 설명하다. かんたんな"
+        "raw_ocr": "簡単な 간단한 簡単に説明する。 간단하게 설명하다. かんたんな",
+        "level": "N5"
     },
     {
         "section": "나형용사",
@@ -5162,7 +5598,8 @@
         "example_jp": "きれいな花が咲く。",
         "example_ko": "예쁜 꽃이 피다.",
         "extra_json": null,
-        "raw_ocr": "きれいな 예쁜 きれいな花が咲く。 예쁜 꽃이 피다. きれいな"
+        "raw_ocr": "きれいな 예쁜 きれいな花が咲く。 예쁜 꽃이 피다. きれいな",
+        "level": "N5"
     },
     {
         "section": "나형용사",
@@ -5173,7 +5610,8 @@
         "example_jp": "部屋をきれいにする。",
         "example_ko": "방을 깨끗하게 하다.",
         "extra_json": null,
-        "raw_ocr": "きれいな 깨끗한 部屋をきれいにする。 방을 깨끗하게 하다. きれいな"
+        "raw_ocr": "きれいな 깨끗한 部屋をきれいにする。 방을 깨끗하게 하다. きれいな",
+        "level": "N5"
     },
     {
         "section": "나형용사",
@@ -5187,7 +5625,8 @@
             "antonym_word": "好きな",
             "antonym_meaning": "좋아하는"
         },
-        "raw_ocr": "きらいな 싫어하는 - 好きな 좋아하는 魚はきらいだ。 생선은 싫어한다."
+        "raw_ocr": "きらいな 싫어하는 - 好きな 좋아하는 魚はきらいだ。 생선은 싫어한다.",
+        "level": "N5"
     },
     {
         "section": "나형용사",
@@ -5198,7 +5637,8 @@
         "example_jp": "早く元気になってください。",
         "example_ko": "빨리 건강해지세요.",
         "extra_json": null,
-        "raw_ocr": "元気な 건강한, 활기찬 早く元気になってください。 빨리 건강해지세요. げんきな"
+        "raw_ocr": "元気な 건강한, 활기찬 早く元気になってください。 빨리 건강해지세요. げんきな",
+        "level": "N5"
     },
     {
         "section": "나형용사",
@@ -5209,7 +5649,8 @@
         "example_jp": "こんなことをしてはいけない。",
         "example_ko": "이런 일을 해서는 안 된다.",
         "extra_json": null,
-        "raw_ocr": "こんな 이런 こんなことをしてはいけない。 이런 일을 해서는 안 된다."
+        "raw_ocr": "こんな 이런 こんなことをしてはいけない。 이런 일을 해서는 안 된다.",
+        "level": "N5"
     },
     {
         "section": "나형용사",
@@ -5223,7 +5664,8 @@
             "antonym_word": "うるさい",
             "antonym_meaning": "시끄러운"
         },
-        "raw_ocr": "静かな 조용한 - うるさい 시끄러운 静かにしなさい。 조용히 하세요. しずかな"
+        "raw_ocr": "静かな 조용한 - うるさい 시끄러운 静かにしなさい。 조용히 하세요. しずかな",
+        "level": "N5"
     },
     {
         "section": "나형용사",
@@ -5237,7 +5679,8 @@
             "antonym_word": "下手な",
             "antonym_meaning": "서툰"
         },
-        "raw_ocr": "上手な 능숙한 - 下手な 서툰 英語を上手に話す。 영어를 능숙하게 말하다. じょうずな"
+        "raw_ocr": "上手な 능숙한 - 下手な 서툰 英語を上手に話す。 영어를 능숙하게 말하다. じょうずな",
+        "level": "N5"
     },
     {
         "section": "나형용사",
@@ -5248,7 +5691,8 @@
         "example_jp": "このくつは丈夫だ。",
         "example_ko": "이 구두는 튼튼하다.",
         "extra_json": null,
-        "raw_ocr": "丈夫な 튼튼한 このくつは丈夫だ。 이 구두는 튼튼하다. じょうぶな"
+        "raw_ocr": "丈夫な 튼튼한 このくつは丈夫だ。 이 구두는 튼튼하다. じょうぶな",
+        "level": "N5"
     },
     {
         "section": "나형용사",
@@ -5262,7 +5706,8 @@
             "antonym_word": "きらいな",
             "antonym_meaning": "싫어하는"
         },
-        "raw_ocr": "好きな 좋아하는 - きらいな 싫어하는 父はお酒が好きだ。 아버지는 술을 좋아한다. すきな"
+        "raw_ocr": "好きな 좋아하는 - きらいな 싫어하는 父はお酒が好きだ。 아버지는 술을 좋아한다. すきな",
+        "level": "N5"
     },
     {
         "section": "나형용사",
@@ -5273,7 +5718,8 @@
         "example_jp": "そんな物はほしくない。",
         "example_ko": "그런 물건은 갖고 싶지 않다.",
         "extra_json": null,
-        "raw_ocr": "そんな 그런 そんな物はほしくない。 그런 물건은 갖고 싶지 않다."
+        "raw_ocr": "そんな 그런 そんな物はほしくない。 그런 물건은 갖고 싶지 않다.",
+        "level": "N5"
     },
     {
         "section": "나형용사",
@@ -5284,7 +5730,8 @@
         "example_jp": "時間は大丈夫ですか。",
         "example_ko": "시간은 괜찮습니까?",
         "extra_json": null,
-        "raw_ocr": "大丈夫な 괜찮은, 문제없는 時間は大丈夫ですか。 시간은 괜찮습니까? だいじょうぶな"
+        "raw_ocr": "大丈夫な 괜찮은, 문제없는 時間は大丈夫ですか。 시간은 괜찮습니까? だいじょうぶな",
+        "level": "N5"
     },
     {
         "section": "나형용사",
@@ -5295,7 +5742,8 @@
         "example_jp": "ゲームが大好きだ。",
         "example_ko": "게임을 아주 좋아한다.",
         "extra_json": null,
-        "raw_ocr": "大好きな 매우 좋아하는 ゲームが大好きだ。 게임을 아주 좋아한다. だいすきな"
+        "raw_ocr": "大好きな 매우 좋아하는 ゲームが大好きだ。 게임을 아주 좋아한다. だいすきな",
+        "level": "N5"
     },
     {
         "section": "나형용사",
@@ -5306,7 +5754,8 @@
         "example_jp": "この仕事はなかなか大変だ。",
         "example_ko": "이 일은 상당히 힘들다.",
         "extra_json": null,
-        "raw_ocr": "大変な 대단한, 힘든 この仕事はなかなか大変だ。 이 일은 상당히 힘들다. たいへんな"
+        "raw_ocr": "大変な 대단한, 힘든 この仕事はなかなか大変だ。 이 일은 상당히 힘들다. たいへんな",
+        "level": "N5"
     },
     {
         "section": "나형용사",
@@ -5320,7 +5769,8 @@
             "antonym_word": "大きな",
             "antonym_meaning": "큰"
         },
-        "raw_ocr": "小さな 작은 - 大きな 큰 小さな家に住む。 작은 집에 살다. ちいさな"
+        "raw_ocr": "小さな 작은 - 大きな 큰 小さな家に住む。 작은 집에 살다. ちいさな",
+        "level": "N5"
     },
     {
         "section": "나형용사",
@@ -5331,7 +5781,8 @@
         "example_jp": "どんなところに行きたいですか。",
         "example_ko": "어떤 곳에 가고 싶습니까?",
         "extra_json": null,
-        "raw_ocr": "どんな 어떤 どんなところに行きたいですか。 어떤 곳에 가고 싶습니까?"
+        "raw_ocr": "どんな 어떤 どんなところに行きたいですか。 어떤 곳에 가고 싶습니까?",
+        "level": "N5"
     },
     {
         "section": "나형용사",
@@ -5342,7 +5793,8 @@
         "example_jp": "この町はにぎやかだ。",
         "example_ko": "이 마을은 번화하다.",
         "extra_json": null,
-        "raw_ocr": "にぎやかな 떠들썩한, 번화한 この町はにぎやかだ。 이 마을은 번화하다."
+        "raw_ocr": "にぎやかな 떠들썩한, 번화한 この町はにぎやかだ。 이 마을은 번화하다.",
+        "level": "N5"
     },
     {
         "section": "나형용사",
@@ -5353,7 +5805,8 @@
         "example_jp": "明日はひまです。",
         "example_ko": "내일은 한가합니다.",
         "extra_json": null,
-        "raw_ocr": "ひまな 한가한 明日はひまです。 내일은 한가합니다."
+        "raw_ocr": "ひまな 한가한 明日はひまです。 내일은 한가합니다.",
+        "level": "N5"
     },
     {
         "section": "나형용사",
@@ -5367,7 +5820,8 @@
             "antonym_word": "不便な",
             "antonym_meaning": "불편한"
         },
-        "raw_ocr": "便利な 편리한 - 不便な 불편한 近くにスーパーがあって便利だ。 근처에 슈퍼마켓이 있어서 편리하다. べんりな"
+        "raw_ocr": "便利な 편리한 - 不便な 불편한 近くにスーパーがあって便利だ。 근처에 슈퍼마켓이 있어서 편리하다. べんりな",
+        "level": "N5"
     },
     {
         "section": "나형용사",
@@ -5378,7 +5832,8 @@
         "example_jp": "彼の作品は有名だ。",
         "example_ko": "그의 작품은 유명하다.",
         "extra_json": null,
-        "raw_ocr": "有名な 유명한 彼の作品は有名だ。 그의 작품은 유명하다. ゆうめいな"
+        "raw_ocr": "有名な 유명한 彼の作品は有名だ。 그의 작품은 유명하다. ゆうめいな",
+        "level": "N5"
     },
     {
         "section": "부사",
@@ -5389,7 +5844,8 @@
         "example_jp": "甘いものはあまり好きではない。",
         "example_ko": "단 것은 별로 좋아하지는 않는다.",
         "extra_json": null,
-        "raw_ocr": "あまり 별로 그다지 甘いものはあまり好きではない 단 것은 별로 좋아하지는 않는다."
+        "raw_ocr": "あまり 별로 그다지 甘いものはあまり好きではない 단 것은 별로 좋아하지는 않는다.",
+        "level": "N5"
     },
     {
         "section": "부사",
@@ -5400,7 +5856,8 @@
         "example_jp": "りんごが一番好きです。",
         "example_ko": "사과를 제일 좋아합니다.",
         "extra_json": null,
-        "raw_ocr": "一番 제일, 가장 りんごが一番好きです。 사과를 제일 좋아합니다. いちばん"
+        "raw_ocr": "一番 제일, 가장 りんごが一番好きです。 사과를 제일 좋아합니다. いちばん",
+        "level": "N5"
     },
     {
         "section": "부사",
@@ -5411,7 +5868,8 @@
         "example_jp": "母といっしょに出かける。",
         "example_ko": "어머니와 함께 외출하다.",
         "extra_json": null,
-        "raw_ocr": "いっしょに 함께, 같이 母といっしょに出かける。 어머니와 함께 외출하다."
+        "raw_ocr": "いっしょに 함께, 같이 母といっしょに出かける。 어머니와 함께 외출하다.",
+        "level": "N5"
     },
     {
         "section": "부사",
@@ -5422,7 +5880,8 @@
         "example_jp": "いつも歩いて学校に行く。",
         "example_ko": "항상 걸어서 학교에 간다.",
         "extra_json": null,
-        "raw_ocr": "いつも 언제나, 항상 늘 いつも歩いて学校に行く 항상 걸어서 학교에 간다."
+        "raw_ocr": "いつも 언제나, 항상 늘 いつも歩いて学校に行く 항상 걸어서 학교에 간다.",
+        "level": "N5"
     },
     {
         "section": "부사",
@@ -5433,7 +5892,8 @@
         "example_jp": "人がおおぜい集まる。",
         "example_ko": "사람이 많이 모이다.",
         "extra_json": null,
-        "raw_ocr": "おおぜい 많이(명사로 쓰이는 경우, '많은 사람들'이라는 의미) 人がおおぜい集まる. 사람이 많이 모이다."
+        "raw_ocr": "おおぜい 많이(명사로 쓰이는 경우, '많은 사람들'이라는 의미) 人がおおぜい集まる. 사람이 많이 모이다.",
+        "level": "N5"
     },
     {
         "section": "부사",
@@ -5444,7 +5904,8 @@
         "example_jp": "もうすぐ冬になる。",
         "example_ko": "이제 곧 겨울이 된다.",
         "extra_json": null,
-        "raw_ocr": "すぐ 곧 もうすぐ冬になる。 이제 곧 겨울이 된다."
+        "raw_ocr": "すぐ 곧 もうすぐ冬になる。 이제 곧 겨울이 된다.",
+        "level": "N5"
     },
     {
         "section": "부사",
@@ -5455,7 +5916,8 @@
         "example_jp": "お酒を少し飲む。",
         "example_ko": "술을 조금 마시다.",
         "extra_json": null,
-        "raw_ocr": "少し 조금 お酒を少し飲む。 술을 조금 마시다. すこし"
+        "raw_ocr": "少し 조금 お酒を少し飲む。 술을 조금 마시다. すこし",
+        "level": "N5"
     },
     {
         "section": "부사",
@@ -5466,7 +5928,8 @@
         "example_jp": "料理を全部食べる。",
         "example_ko": "요리를 전부 먹다.",
         "extra_json": null,
-        "raw_ocr": "全部 전부 料理を全部食べる。 요리를 전부 먹다. ぜんぶ"
+        "raw_ocr": "全部 전부 料理を全部食べる。 요리를 전부 먹다. ぜんぶ",
+        "level": "N5"
     },
     {
         "section": "부사",
@@ -5477,7 +5940,8 @@
         "example_jp": "たいへんおもしろい。",
         "example_ko": "매우 재미있다.",
         "extra_json": null,
-        "raw_ocr": "たいへん 매우, 대단히 たいへんおもしろい。 매우 재미있다."
+        "raw_ocr": "たいへん 매우, 대단히 たいへんおもしろい。 매우 재미있다.",
+        "level": "N5"
     },
     {
         "section": "부사",
@@ -5488,7 +5952,8 @@
         "example_jp": "ご飯をたくさん食べる。",
         "example_ko": "밥을 많이 먹다.",
         "extra_json": null,
-        "raw_ocr": "たくさん 많이 ご飯をたくさん食べる。 밥을 많이 먹다."
+        "raw_ocr": "たくさん 많이 ご飯をたくさん食べる。 밥을 많이 먹다.",
+        "level": "N5"
     },
     {
         "section": "부사",
@@ -5499,7 +5964,8 @@
         "example_jp": "だんだん寒くなる。",
         "example_ko": "점점 추워지다.",
         "extra_json": null,
-        "raw_ocr": "だんだん 점점, 차츰 だんだん寒くなる。 점점 추워지다."
+        "raw_ocr": "だんだん 점점, 차츰 だんだん寒くなる。 점점 추워지다.",
+        "level": "N5"
     },
     {
         "section": "부사",
@@ -5510,7 +5976,8 @@
         "example_jp": "ちょっと待ってください。",
         "example_ko": "잠깐 기다려 주세요.",
         "extra_json": null,
-        "raw_ocr": "ちょっと 조금, 잠깐 ちょっと待ってください。 잠깐 기다려 주세요"
+        "raw_ocr": "ちょっと 조금, 잠깐 ちょっと待ってください。 잠깐 기다려 주세요",
+        "level": "N5"
     },
     {
         "section": "부사",
@@ -5521,7 +5988,8 @@
         "example_jp": "どうしましょうか。",
         "example_ko": "어떻게 할까요?",
         "extra_json": null,
-        "raw_ocr": "どう 어떻게 どうしましょうか。 어떻게 할까요?"
+        "raw_ocr": "どう 어떻게 どうしましょうか。 어떻게 할까요?",
+        "level": "N5"
     },
     {
         "section": "부사",
@@ -5532,7 +6000,8 @@
         "example_jp": "どうして来なかったの？",
         "example_ko": "어째서 안 왔어?",
         "extra_json": null,
-        "raw_ocr": "どうして 어째서, 왜 - なぜ どうして来なかったの? 어째서 안왔어?"
+        "raw_ocr": "どうして 어째서, 왜 - なぜ どうして来なかったの? 어째서 안왔어?",
+        "level": "N5"
     },
     {
         "section": "부사",
@@ -5543,7 +6012,8 @@
         "example_jp": "どうぞよろしくお願いします。",
         "example_ko": "부디 잘 부탁합니다.",
         "extra_json": null,
-        "raw_ocr": "どうぞ 자, 어서, 부디(권유나 부탁) どうぞよろしくお願いします。 부디 잘 부탁합니다."
+        "raw_ocr": "どうぞ 자, 어서, 부디(권유나 부탁) どうぞよろしくお願いします。 부디 잘 부탁합니다.",
+        "level": "N5"
     },
     {
         "section": "부사",
@@ -5554,7 +6024,8 @@
         "example_jp": "どうもすみません。",
         "example_ko": "정말 죄송합니다.",
         "extra_json": null,
-        "raw_ocr": "どうも 정말, 참으로(사과나 감사의 인사말을 강조) どうもすみません 정말 죄송합니다."
+        "raw_ocr": "どうも 정말, 참으로(사과나 감사의 인사말을 강조) どうもすみません 정말 죄송합니다.",
+        "level": "N5"
     },
     {
         "section": "부사",
@@ -5565,7 +6036,8 @@
         "example_jp": "時々映画を見に行く。",
         "example_ko": "가끔 영화를 보러 간다.",
         "extra_json": null,
-        "raw_ocr": "時々 때때로, 가끔 時々映画を見に行く。 가끔 영화를 보러 간다. ときどき"
+        "raw_ocr": "時々 때때로, 가끔 時々映画を見に行く。 가끔 영화를 보러 간다. ときどき",
+        "level": "N5"
     },
     {
         "section": "부사",
@@ -5576,7 +6048,8 @@
         "example_jp": "今日はとても寒い。",
         "example_ko": "오늘은 매우 춥다.",
         "extra_json": null,
-        "raw_ocr": "とても 매우 今日はとても寒い。 오늘은 매우 춥다."
+        "raw_ocr": "とても 매우 今日はとても寒い。 오늘은 매우 춥다.",
+        "level": "N5"
     },
     {
         "section": "부사",
@@ -5587,7 +6060,8 @@
         "example_jp": "なぜ遅刻したの？",
         "example_ko": "왜 지각했어?",
         "extra_json": null,
-        "raw_ocr": "なぜ 왜, 어째서 なぜ遅刻したの? 왜 지각했어?"
+        "raw_ocr": "なぜ 왜, 어째서 なぜ遅刻したの? 왜 지각했어?",
+        "level": "N5"
     },
     {
         "section": "부사",
@@ -5598,7 +6072,8 @@
         "example_jp": "あしたまた来ます。",
         "example_ko": "내일 또 오겠습니다.",
         "extra_json": null,
-        "raw_ocr": "また 또 あしたまた来ます。 내일 또 오겠습니다."
+        "raw_ocr": "また 또 あしたまた来ます。 내일 또 오겠습니다.",
+        "level": "N5"
     },
     {
         "section": "부사",
@@ -5609,7 +6084,8 @@
         "example_jp": "まだ雨が降っている。",
         "example_ko": "아직 비가 내리고 있다.",
         "extra_json": null,
-        "raw_ocr": "まだ 아직 まだ雨が降っている。 아직 비가 내리고 있다."
+        "raw_ocr": "まだ 아직 まだ雨が降っている。 아직 비가 내리고 있다.",
+        "level": "N5"
     },
     {
         "section": "부사",
@@ -5620,7 +6096,8 @@
         "example_jp": "まっすぐ家に帰る。",
         "example_ko": "곧장 집으로 돌아간다.",
         "extra_json": null,
-        "raw_ocr": "まっすぐ 곧장, 똑바로 まっすぐ家に帰る。 곧장 집으로 돌아간다."
+        "raw_ocr": "まっすぐ 곧장, 똑바로 まっすぐ家に帰る。 곧장 집으로 돌아간다.",
+        "level": "N5"
     },
     {
         "section": "부사",
@@ -5631,7 +6108,8 @@
         "example_jp": "もう一度言ってください。",
         "example_ko": "한 번 더 말해 주세요.",
         "extra_json": null,
-        "raw_ocr": "もう一度 한 번 더 もう一度言ってください。 한 번 더 말해 주세요 もういちど"
+        "raw_ocr": "もう一度 한 번 더 もう一度言ってください。 한 번 더 말해 주세요 もういちど",
+        "level": "N5"
     },
     {
         "section": "부사",
@@ -5642,7 +6120,8 @@
         "example_jp": "もっと寒くなる。",
         "example_ko": "더 추워진다.",
         "extra_json": null,
-        "raw_ocr": "もっと 더욱 더 もっと寒くなる。 더 추워진다."
+        "raw_ocr": "もっと 더욱 더 もっと寒くなる。 더 추워진다.",
+        "level": "N5"
     },
     {
         "section": "부사",
@@ -5653,7 +6132,8 @@
         "example_jp": "ゆっくり歩く。",
         "example_ko": "천천히 걷다.",
         "extra_json": null,
-        "raw_ocr": "ゆっくり 천천히, 느긋하게 ゆっくり歩く。 천천히 걷다."
+        "raw_ocr": "ゆっくり 천천히, 느긋하게 ゆっくり歩く。 천천히 걷다.",
+        "level": "N5"
     },
     {
         "section": "부사",
@@ -5664,7 +6144,8 @@
         "example_jp": "あの人は誰ですか。",
         "example_ko": "저 사람은 누구입니까?",
         "extra_json": null,
-        "raw_ocr": "あの 저 <연체사> あの人は誰ですか。 저 사람은 누구입니까?"
+        "raw_ocr": "あの 저 <연체사> あの人は誰ですか。 저 사람은 누구입니까?",
+        "level": "N5"
     },
     {
         "section": "부사",
@@ -5675,7 +6156,8 @@
         "example_jp": "このかばんは誰のですか。",
         "example_ko": "이 가방은 누구의 것입니까?",
         "extra_json": null,
-        "raw_ocr": "この 이 <연체사> このかばんは誰のですか. 이 가방은 누구의 것입니까?"
+        "raw_ocr": "この 이 <연체사> このかばんは誰のですか. 이 가방은 누구의 것입니까?",
+        "level": "N5"
     },
     {
         "section": "부사",
@@ -5686,7 +6168,8 @@
         "example_jp": "その時計はどこで買いましたか。",
         "example_ko": "그 시계는 어디서 샀습니까?",
         "extra_json": null,
-        "raw_ocr": "その 그 <연체사> その時計はどこで買いましたか。 그 시계는 어디서 샀습니까"
+        "raw_ocr": "その 그 <연체사> その時計はどこで買いましたか。 그 시계는 어디서 샀습니까",
+        "level": "N5"
     },
     {
         "section": "부사",
@@ -5697,7 +6180,8 @@
         "example_jp": "どの本を買いましょうか。",
         "example_ko": "어느 책을 살까요?",
         "extra_json": null,
-        "raw_ocr": "どの 어느 (연체사) どの本を買いましょうか。 어느 책을 살까요?"
+        "raw_ocr": "どの 어느 (연체사) どの本を買いましょうか。 어느 책을 살까요?",
+        "level": "N5"
     },
     {
         "section": "부사",
@@ -5708,7 +6192,8 @@
         "example_jp": "時間はどれくらいかかりますか。",
         "example_ko": "시간은 어느 정도 걸립니까?",
         "extra_json": null,
-        "raw_ocr": "~くらい/ぐらい ~정도 (조사) 時間はどれくらいかかりますか。 시간은 어느 정도 걸립니까"
+        "raw_ocr": "~くらい/ぐらい ~정도 (조사) 時間はどれくらいかかりますか。 시간은 어느 정도 걸립니까",
+        "level": "N5"
     },
     {
         "section": "부사",
@@ -5719,7 +6204,8 @@
         "example_jp": "子どもたちにお菓子を二つずつあげる。",
         "example_ko": "아이들에게 과자를 두 개씩 주다.",
         "extra_json": null,
-        "raw_ocr": "~ずつ ~씩 子どもたちにお菓子を二つずつあげる 아이들에게 과자를 두 개씩 주다."
+        "raw_ocr": "~ずつ ~씩 子どもたちにお菓子を二つずつあげる 아이들에게 과자를 두 개씩 주다.",
+        "level": "N5"
     },
     {
         "section": "부사",
@@ -5730,7 +6216,8 @@
         "example_jp": "あなただけに話す。",
         "example_ko": "당신에게만 이야기하다.",
         "extra_json": null,
-        "raw_ocr": "~だけ ~만 ~뿐 あなただけに話す。 당신에게만 이야기하겠다."
+        "raw_ocr": "~だけ ~만 ~뿐 あなただけに話す。 당신에게만 이야기하겠다.",
+        "level": "N5"
     },
     {
         "section": "부사",
@@ -5741,7 +6228,8 @@
         "example_jp": "3月になった、でもまだ寒い。",
         "example_ko": "3월이 되었다, 그렇지만 아직 춥다.",
         "extra_json": null,
-        "raw_ocr": "でも 그렇지만 3月になった、でも。まだ寒い 3월이 되었다. 그렇지만 아직 춥다."
+        "raw_ocr": "でも 그렇지만 3月になった、でも。まだ寒い 3월이 되었다. 그렇지만 아직 춥다.",
+        "level": "N5"
     },
     {
         "section": "가타카나",
@@ -5752,7 +6240,8 @@
         "example_jp": "アパートに住んでいる。",
         "example_ko": "아파트에 살고 있다.",
         "extra_json": null,
-        "raw_ocr": "アパート 아파트 アパートに住んでいる。 아파트에 살고 있다."
+        "raw_ocr": "アパート 아파트 アパートに住んでいる。 아파트에 살고 있다.",
+        "level": "N5"
     },
     {
         "section": "가타카나",
@@ -5763,7 +6252,8 @@
         "example_jp": "エレベーターに乗る。",
         "example_ko": "엘리베이터를 타다.",
         "extra_json": null,
-        "raw_ocr": "エレベーター 엘리베이터 エレベーターに乗る。 엘리베이터를 타다."
+        "raw_ocr": "エレベーター 엘리베이터 エレベーターに乗る。 엘리베이터를 타다.",
+        "level": "N5"
     },
     {
         "section": "가타카나",
@@ -5774,7 +6264,8 @@
         "example_jp": "カップにコーヒーを入れる。",
         "example_ko": "컵에 커피를 따르다.",
         "extra_json": null,
-        "raw_ocr": "カップ 컵 カップにコーヒーを入れる 컵에 커피를 넣다(따르다)."
+        "raw_ocr": "カップ 컵 カップにコーヒーを入れる 컵에 커피를 넣다(따르다).",
+        "level": "N5"
     },
     {
         "section": "가타카나",
@@ -5785,7 +6276,8 @@
         "example_jp": "カメラで写真を撮る。",
         "example_ko": "카메라로 사진을 찍다.",
         "extra_json": null,
-        "raw_ocr": "カメラ 카메라 カメラで写真を撮る。 카메라로 사진을 찍다."
+        "raw_ocr": "カメラ 카메라 カメラで写真を撮る。 카메라로 사진을 찍다.",
+        "level": "N5"
     },
     {
         "section": "가타카나",
@@ -5796,7 +6288,8 @@
         "example_jp": "誕生日をカレンダーに書く。",
         "example_ko": "생일을 달력에 쓰다.",
         "extra_json": null,
-        "raw_ocr": "カレンダー 캘린더, 달력 誕生日をカレンダーに書く 생일을 달력에 쓰다."
+        "raw_ocr": "カレンダー 캘린더, 달력 誕生日をカレンダーに書く 생일을 달력에 쓰다.",
+        "level": "N5"
     },
     {
         "section": "가타카나",
@@ -5807,7 +6300,8 @@
         "example_jp": "ギターを弾く。",
         "example_ko": "기타를 치다.",
         "extra_json": null,
-        "raw_ocr": "ギター 기타(악기) ギターを弾く。 기타를 치다(연주하다)."
+        "raw_ocr": "ギター 기타(악기) ギターを弾く。 기타를 치다(연주하다).",
+        "level": "N5"
     },
     {
         "section": "가타카나",
@@ -5818,7 +6312,8 @@
         "example_jp": "わたしのクラスは15人です。",
         "example_ko": "우리 반은 15명입니다.",
         "extra_json": null,
-        "raw_ocr": "クラス 클래스, 반 わたしのクラスは15人です。 우리 반은 15명입니다."
+        "raw_ocr": "クラス 클래스, 반 わたしのクラスは15人です。 우리 반은 15명입니다.",
+        "level": "N5"
     },
     {
         "section": "가타카나",
@@ -5829,7 +6324,8 @@
         "example_jp": "グラスでワインを飲む。",
         "example_ko": "유리잔으로 와인을 마시다.",
         "extra_json": null,
-        "raw_ocr": "グラス 유리잔 グラスでワインを飲む, 유리잔으로 와인을 마시다."
+        "raw_ocr": "グラス 유리잔 グラスでワインを飲む, 유리잔으로 와인을 마시다.",
+        "level": "N5"
     },
     {
         "section": "가타카나",
@@ -5840,7 +6336,8 @@
         "example_jp": "コートを着て、家を出る。",
         "example_ko": "코트를 입고 집을 나서다.",
         "extra_json": null,
-        "raw_ocr": "コート 코트, 외투 コートを着て、家を出る 코트를 입고 집을 나서다."
+        "raw_ocr": "コート 코트, 외투 コートを着て、家を出る 코트를 입고 집을 나서다.",
+        "level": "N5"
     },
     {
         "section": "가타카나",
@@ -5851,7 +6348,8 @@
         "example_jp": "一杯のコーヒーを飲む。",
         "example_ko": "한 잔의 커피를 마시다.",
         "extra_json": null,
-        "raw_ocr": "コーヒー 커피 一杯のコーヒーを飲む. 한 잔의 커피를 마시다."
+        "raw_ocr": "コーヒー 커피 一杯のコーヒーを飲む. 한 잔의 커피를 마시다.",
+        "level": "N5"
     },
     {
         "section": "가타카나",
@@ -5862,7 +6360,8 @@
         "example_jp": "コップで水を飲む。",
         "example_ko": "컵으로 물을 마시다.",
         "extra_json": null,
-        "raw_ocr": "コップ 컵 コップで水を飲む。 컵으로 물을 마시다."
+        "raw_ocr": "コップ 컵 コップで水を飲む。 컵으로 물을 마시다.",
+        "level": "N5"
     },
     {
         "section": "가타카나",
@@ -5873,7 +6372,8 @@
         "example_jp": "コピーをとる。",
         "example_ko": "복사하다.",
         "extra_json": null,
-        "raw_ocr": "コピー 복사 コピーをとる。 복사하다."
+        "raw_ocr": "コピー 복사 コピーをとる。 복사하다.",
+        "level": "N5"
     },
     {
         "section": "가타카나",
@@ -5884,7 +6384,8 @@
         "example_jp": "シャツを洗う。",
         "example_ko": "셔츠를 빨다.",
         "extra_json": null,
-        "raw_ocr": "シャツ 셔츠 シャツを洗う。 셔츠를 빨다."
+        "raw_ocr": "シャツ 셔츠 シャツを洗う。 셔츠를 빨다.",
+        "level": "N5"
     },
     {
         "section": "가타카나",
@@ -5895,7 +6396,8 @@
         "example_jp": "シャワーをあびる。",
         "example_ko": "샤워하다.",
         "extra_json": null,
-        "raw_ocr": "シャワー 샤워 シャワーをあびる 샤워하다."
+        "raw_ocr": "シャワー 샤워 シャワーをあびる 샤워하다.",
+        "level": "N5"
     },
     {
         "section": "가타카나",
@@ -5906,7 +6408,8 @@
         "example_jp": "このスカートはちょっと短い。",
         "example_ko": "이 스커트는 조금 짧다.",
         "extra_json": null,
-        "raw_ocr": "スカート 스커트 치마 このスカートはちょっと短い。 이 스커트는 조금 짧다."
+        "raw_ocr": "スカート 스커트 치마 このスカートはちょっと短い。 이 스커트는 조금 짧다.",
+        "level": "N5"
     },
     {
         "section": "가타카나",
@@ -5917,7 +6420,8 @@
         "example_jp": "ストーブをつける。",
         "example_ko": "스토브를 켜다.",
         "extra_json": null,
-        "raw_ocr": "ストーブ 스토브 난로 ストープをつける。 스토브를 켜다."
+        "raw_ocr": "ストーブ 스토브 난로 ストープをつける。 스토브를 켜다.",
+        "level": "N5"
     },
     {
         "section": "가타카나",
@@ -5928,7 +6432,8 @@
         "example_jp": "スプーンでカレーを食べる。",
         "example_ko": "스푼으로 카레를 먹다.",
         "extra_json": null,
-        "raw_ocr": "スプーン 스푼, 숟가락 スプーンでカレーを食べる。 스푼으로 카레를 먹다."
+        "raw_ocr": "スプーン 스푼, 숟가락 スプーンでカレーを食べる。 스푼으로 카레를 먹다.",
+        "level": "N5"
     },
     {
         "section": "가타카나",
@@ -5939,7 +6444,8 @@
         "example_jp": "スポーツの中では野球が好きです。",
         "example_ko": "스포츠 중에서는 야구를 좋아합니다.",
         "extra_json": null,
-        "raw_ocr": "スポーツ 스포츠 スポーツの中では野球が好きです。 스포츠 중에서는 야구를 좋아합니다."
+        "raw_ocr": "スポーツ 스포츠 スポーツの中では野球が好きです。 스포츠 중에서는 야구를 좋아합니다.",
+        "level": "N5"
     },
     {
         "section": "가타카나",
@@ -5950,7 +6456,8 @@
         "example_jp": "ズボンをはく。",
         "example_ko": "바지를 입다.",
         "extra_json": null,
-        "raw_ocr": "ズボン 바지 ズボンをはく。 바지를 입다."
+        "raw_ocr": "ズボン 바지 ズボンをはく。 바지를 입다.",
+        "level": "N5"
     },
     {
         "section": "가타카나",
@@ -5961,7 +6468,8 @@
         "example_jp": "このセーターは暖かい。",
         "example_ko": "이 스웨터는 따뜻하다.",
         "extra_json": null,
-        "raw_ocr": "セーター 스웨터 このセーターは暖かい。 이 스웨터는 따뜻하다."
+        "raw_ocr": "セーター 스웨터 このセーターは暖かい。 이 스웨터는 따뜻하다.",
+        "level": "N5"
     },
     {
         "section": "가타카나",
@@ -5972,7 +6480,8 @@
         "example_jp": "ゼロから始める。",
         "example_ko": "제로에서 시작하다.",
         "extra_json": null,
-        "raw_ocr": "ゼロ 제로, 0 ゼロから始める。 제로에서 시작하다."
+        "raw_ocr": "ゼロ 제로, 0 ゼロから始める。 제로에서 시작하다.",
+        "level": "N5"
     },
     {
         "section": "가타카나",
@@ -5983,7 +6492,8 @@
         "example_jp": "タクシーで行く。",
         "example_ko": "택시로 가다.",
         "extra_json": null,
-        "raw_ocr": "タクシー 택시 タクシーで行く。 택시로 가다."
+        "raw_ocr": "タクシー 택시 タクシーで行く。 택시로 가다.",
+        "level": "N5"
     },
     {
         "section": "가타카나",
@@ -5994,7 +6504,8 @@
         "example_jp": "テープを切る。",
         "example_ko": "테이프를 자르다.",
         "extra_json": null,
-        "raw_ocr": "テープ 테이프 テープを切る。 테이프를 자르다."
+        "raw_ocr": "テープ 테이프 テープを切る。 테이프를 자르다.",
+        "level": "N5"
     },
     {
         "section": "가타카나",
@@ -6005,7 +6516,8 @@
         "example_jp": "テーブルの上にお皿を置く。",
         "example_ko": "테이블 위에 접시를 놓다.",
         "extra_json": null,
-        "raw_ocr": "テーブル 테이블 テーブルの上にお皿を置く 테이블 위에 접시를 놓다."
+        "raw_ocr": "テーブル 테이블 テーブルの上にお皿を置く 테이블 위에 접시를 놓다.",
+        "level": "N5"
     },
     {
         "section": "가타카나",
@@ -6016,7 +6528,8 @@
         "example_jp": "これからテストを始めます。",
         "example_ko": "지금부터 테스트를 시작하겠습니다.",
         "extra_json": null,
-        "raw_ocr": "テスト 테스트, 시험 これからテストを始めます 지금부터 테스트를 시작하겠습니다."
+        "raw_ocr": "テスト 테스트, 시험 これからテストを始めます 지금부터 테스트를 시작하겠습니다.",
+        "level": "N5"
     },
     {
         "section": "가타카나",
@@ -6027,7 +6540,8 @@
         "example_jp": "デパートで買い物をする。",
         "example_ko": "백화점에서 쇼핑을 하다.",
         "extra_json": null,
-        "raw_ocr": "デパート 백화점 デパートで食い物をする。 백화점에서 쇼핑을 하다."
+        "raw_ocr": "デパート 백화점 デパートで食い物をする。 백화점에서 쇼핑을 하다.",
+        "level": "N5"
     },
     {
         "section": "가타카나",
@@ -6038,7 +6552,8 @@
         "example_jp": "テレビを見る。",
         "example_ko": "텔레비전을 보다.",
         "extra_json": null,
-        "raw_ocr": "テレビ 텔레비전 テレビを見る。 텔레비전을 보다."
+        "raw_ocr": "テレビ 텔레비전 テレビを見る。 텔레비전을 보다.",
+        "level": "N5"
     },
     {
         "section": "가타카나",
@@ -6049,7 +6564,8 @@
         "example_jp": "ドアを開ける。",
         "example_ko": "문을 열다.",
         "extra_json": null,
-        "raw_ocr": "ドア 문 ドアを開ける。 문을 열다."
+        "raw_ocr": "ドア 문 ドアを開ける。 문을 열다.",
+        "level": "N5"
     },
     {
         "section": "가타카나",
@@ -6060,7 +6576,8 @@
         "example_jp": "トイレに行く。",
         "example_ko": "화장실에 가다.",
         "extra_json": null,
-        "raw_ocr": "トイレ 화장실 トイレに行く。 화장실에 가다."
+        "raw_ocr": "トイレ 화장실 トイレに行く。 화장실에 가다.",
+        "level": "N5"
     },
     {
         "section": "가타카나",
@@ -6071,7 +6588,8 @@
         "example_jp": "ナイフで肉を切る。",
         "example_ko": "나이프로 고기를 자르다.",
         "extra_json": null,
-        "raw_ocr": "ナイフ 나이프 칼 ナイフで肉を切る。 나이프로 고기를 자르다."
+        "raw_ocr": "ナイフ 나이프 칼 ナイフで肉を切る。 나이프로 고기를 자르다.",
+        "level": "N5"
     },
     {
         "section": "가타카나",
@@ -6082,7 +6600,8 @@
         "example_jp": "プレゼントにネクタイを買う。",
         "example_ko": "선물로 넥타이를 사다.",
         "extra_json": null,
-        "raw_ocr": "ネクタイ 넥타이 プレゼントにネクタイを買う 선물로 넥타이를 사다."
+        "raw_ocr": "ネクタイ 넥타이 プレゼントにネクタイを買う 선물로 넥타이를 사다.",
+        "level": "N5"
     },
     {
         "section": "가타카나",
@@ -6093,7 +6612,8 @@
         "example_jp": "ノートをとる。",
         "example_ko": "필기하다 (노트를 적다).",
         "extra_json": null,
-        "raw_ocr": "ノート 노트 ノートをとる。 필기하다."
+        "raw_ocr": "ノート 노트 ノートをとる。 필기하다.",
+        "level": "N5"
     },
     {
         "section": "가타카나",
@@ -6104,7 +6624,8 @@
         "example_jp": "パーティーを開く。",
         "example_ko": "파티를 열다.",
         "extra_json": null,
-        "raw_ocr": "パーティー 파티 パーティーを開く。 파티를 열다."
+        "raw_ocr": "パーティー 파티 パーティーを開く。 파티를 열다.",
+        "level": "N5"
     },
     {
         "section": "가타카나",
@@ -6115,7 +6636,8 @@
         "example_jp": "バスに乗って会社に行く。",
         "example_ko": "버스를 타고 회사에 가다.",
         "extra_json": null,
-        "raw_ocr": "バス 버스 バスに乗って会社に行く 버스를 타고 회사에 가다."
+        "raw_ocr": "バス 버스 バスに乗って会社に行く 버스를 타고 회사에 가다.",
+        "level": "N5"
     },
     {
         "section": "가타카나",
@@ -6126,7 +6648,8 @@
         "example_jp": "今朝パンを食べました。",
         "example_ko": "오늘 아침 빵을 먹었습니다.",
         "extra_json": null,
-        "raw_ocr": "パン 빵 今朝パンを食べました。 오늘 아침 빵을 먹었습니다."
+        "raw_ocr": "パン 빵 今朝パンを食べました。 오늘 아침 빵을 먹었습니다.",
+        "level": "N5"
     },
     {
         "section": "가타카나",
@@ -6137,7 +6660,8 @@
         "example_jp": "ハンカチをもらう。",
         "example_ko": "손수건을 받다.",
         "extra_json": null,
-        "raw_ocr": "ハンカチ 손수건 ハンカチをもらう。 손수건을 받다."
+        "raw_ocr": "ハンカチ 손수건 ハンカチをもらう。 손수건을 받다.",
+        "level": "N5"
     },
     {
         "section": "가타카나",
@@ -6148,7 +6672,8 @@
         "example_jp": "高いビルが並んでいる。",
         "example_ko": "높은 빌딩이 늘어서 있다.",
         "extra_json": null,
-        "raw_ocr": "ビル 빌딩 高いビルが並んでいる。 높은 빌딩이 늘어서 있다."
+        "raw_ocr": "ビル 빌딩 高いビルが並んでいる。 높은 빌딩이 늘어서 있다.",
+        "level": "N5"
     },
     {
         "section": "가타카나",
@@ -6159,7 +6684,8 @@
         "example_jp": "ペンで字を書く。",
         "example_ko": "펜으로 글씨를 쓰다.",
         "extra_json": null,
-        "raw_ocr": "ペン 펜 ペンで幸を書く。 펜으로 글씨를 쓰다."
+        "raw_ocr": "ペン 펜 ペンで幸を書く。 펜으로 글씨를 쓰다.",
+        "level": "N5"
     },
     {
         "section": "가타카나",
@@ -6170,7 +6696,8 @@
         "example_jp": "名前は黒いボールペンで書いてください。",
         "example_ko": "이름은 검은 볼펜으로 써주세요.",
         "extra_json": null,
-        "raw_ocr": "ボールペン 볼펜 名前は黒いボールペンで書いてください。 이름은 검은 볼펜으로 써주세요"
+        "raw_ocr": "ボールペン 볼펜 名前は黒いボールペンで書いてください。 이름은 검은 볼펜으로 써주세요",
+        "level": "N5"
     },
     {
         "section": "가타카나",
@@ -6181,7 +6708,8 @@
         "example_jp": "ポケットに手を入れる。",
         "example_ko": "주머니에 손을 넣다.",
         "extra_json": null,
-        "raw_ocr": "ポケット 포켓, 주머니 ポケットに手を入れる、 포켓에 손을 넣는다."
+        "raw_ocr": "ポケット 포켓, 주머니 ポケットに手を入れる、 포켓에 손을 넣는다.",
+        "level": "N5"
     },
     {
         "section": "가타카나",
@@ -6192,7 +6720,8 @@
         "example_jp": "ボタンを押す。",
         "example_ko": "버튼을 누르다.",
         "extra_json": null,
-        "raw_ocr": "ボタン 버튼, 단추 ボタンを押す。 버튼을 누르다."
+        "raw_ocr": "ボタン 버튼, 단추 ボタンを押す。 버튼을 누르다.",
+        "level": "N5"
     },
     {
         "section": "가타카나",
@@ -6203,7 +6732,8 @@
         "example_jp": "ホテルでパーティーをする。",
         "example_ko": "호텔에서 파티를 하다.",
         "extra_json": null,
-        "raw_ocr": "ホテル 호텔 ホテルでパーティーをする。 호텔에서 파티를 하다."
+        "raw_ocr": "ホテル 호텔 ホテルでパーティーをする。 호텔에서 파티를 하다.",
+        "level": "N5"
     },
     {
         "section": "가타카나",
@@ -6214,7 +6744,8 @@
         "example_jp": "家の前に高さ10メートルぐらいの木がある。",
         "example_ko": "집 앞에 높이 10미터 정도의 나무가 있다.",
         "extra_json": null,
-        "raw_ocr": "メートル 미터 家の前に高さ10メートルぐらいの来がある。 집 앞에 높이 10미터 정도의 나무가 있다."
+        "raw_ocr": "メートル 미터 家の前に高さ10メートルぐらいの来がある。 집 앞에 높이 10미터 정도의 나무가 있다.",
+        "level": "N5"
     },
     {
         "section": "가타카나",
@@ -6225,7 +6756,8 @@
         "example_jp": "ラジオでニュースを聞く。",
         "example_ko": "라디오로 뉴스를 듣다.",
         "extra_json": null,
-        "raw_ocr": "ラジオ 라디오 ラジオでニュースを聞く ラジオでニュースを聞く"
+        "raw_ocr": "ラジオ 라디오 ラジオでニュースを聞く ラジオでニュースを聞く",
+        "level": "N5"
     },
     {
         "section": "가타카나",
@@ -6236,7 +6768,8 @@
         "example_jp": "レストランで食事をする。",
         "example_ko": "레스토랑에서 식사를 하다.",
         "extra_json": null,
-        "raw_ocr": "レストラン 레스토랑 レストランで食事をする レストランで食事をする"
+        "raw_ocr": "レストラン 레스토랑 レストランで食事をする レストランで食事をする",
+        "level": "N5"
     },
     {
         "section": "인사말",
@@ -6247,7 +6780,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "ありがとうございます 감사합니다."
+        "raw_ocr": "ありがとうございます 감사합니다.",
+        "level": "N5"
     },
     {
         "section": "인사말",
@@ -6258,7 +6792,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "いいえ 아니요"
+        "raw_ocr": "いいえ 아니요",
+        "level": "N5"
     },
     {
         "section": "인사말",
@@ -6269,7 +6804,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "いただきます 잘 먹겠습니다"
+        "raw_ocr": "いただきます 잘 먹겠습니다",
+        "level": "N5"
     },
     {
         "section": "인사말",
@@ -6280,7 +6816,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "いらっしゃいませ 어서 오십시오"
+        "raw_ocr": "いらっしゃいませ 어서 오십시오",
+        "level": "N5"
     },
     {
         "section": "인사말",
@@ -6291,7 +6828,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "おねがいします 부탁합니다"
+        "raw_ocr": "おねがいします 부탁합니다",
+        "level": "N5"
     },
     {
         "section": "인사말",
@@ -6302,7 +6840,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "おはようございます 안녕하세요 <아침 인사>"
+        "raw_ocr": "おはようございます 안녕하세요 <아침 인사>",
+        "level": "N5"
     },
     {
         "section": "인사말",
@@ -6313,7 +6852,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "お休みなさい 안녕히 주무세요 おやすみなさい"
+        "raw_ocr": "お休みなさい 안녕히 주무세요 おやすみなさい",
+        "level": "N5"
     },
     {
         "section": "인사말",
@@ -6324,7 +6864,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "ごちそうさまでした 잘 먹었습니다."
+        "raw_ocr": "ごちそうさまでした 잘 먹었습니다.",
+        "level": "N5"
     },
     {
         "section": "인사말",
@@ -6335,7 +6876,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "こちらこそ 저야말로"
+        "raw_ocr": "こちらこそ 저야말로",
+        "level": "N5"
     },
     {
         "section": "인사말",
@@ -6346,7 +6888,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "ごめんなさい 미안합니다"
+        "raw_ocr": "ごめんなさい 미안합니다",
+        "level": "N5"
     },
     {
         "section": "인사말",
@@ -6357,7 +6900,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "こんにちは 안녕하세요 (낮인사>"
+        "raw_ocr": "こんにちは 안녕하세요 (낮인사>",
+        "level": "N5"
     },
     {
         "section": "인사말",
@@ -6368,7 +6912,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "こんばんは 안녕하세요 (저녁 민사)"
+        "raw_ocr": "こんばんは 안녕하세요 (저녁 민사)",
+        "level": "N5"
     },
     {
         "section": "인사말",
@@ -6379,7 +6924,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "さようなら 잘가요"
+        "raw_ocr": "さようなら 잘가요",
+        "level": "N5"
     },
     {
         "section": "인사말",
@@ -6390,7 +6936,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "失礼します 실례합니다 しつれいします"
+        "raw_ocr": "失礼します 실례합니다 しつれいします",
+        "level": "N5"
     },
     {
         "section": "인사말",
@@ -6401,7 +6948,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "すみません 미안합니다"
+        "raw_ocr": "すみません 미안합니다",
+        "level": "N5"
     },
     {
         "section": "인사말",
@@ -6412,7 +6960,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "どういたしまして 천만에요"
+        "raw_ocr": "どういたしまして 천만에요",
+        "level": "N5"
     },
     {
         "section": "인사말",
@@ -6423,7 +6972,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "はい 네"
+        "raw_ocr": "はい 네",
+        "level": "N5"
     },
     {
         "section": "인사말",
@@ -6434,7 +6984,8 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "はじめまして 처음 뵙겠습니다"
+        "raw_ocr": "はじめまして 처음 뵙겠습니다",
+        "level": "N5"
     },
     {
         "section": "인사말",
@@ -6445,6 +6996,7 @@
         "example_jp": null,
         "example_ko": null,
         "extra_json": null,
-        "raw_ocr": "もしもし 여보세요"
+        "raw_ocr": "もしもし 여보세요",
+        "level": "N5"
     }
 ]
