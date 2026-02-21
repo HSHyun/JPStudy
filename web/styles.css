@@ -1,0 +1,151 @@
+:root {
+  --bg-a: #f6f4ee;
+  --bg-b: #d8e5e1;
+  --ink: #1e2724;
+  --muted: #52605a;
+  --card: #fffef9;
+  --line: #d7ddd8;
+  --accent: #1f7a63;
+  --accent-2: #d1782d;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: "Noto Sans KR", "Hiragino Sans", "Yu Gothic", sans-serif;
+  color: var(--ink);
+  background:
+    radial-gradient(1200px 400px at -5% -10%, #ffffff 0%, transparent 60%),
+    radial-gradient(900px 500px at 100% 0%, #efe9d8 0%, transparent 60%),
+    linear-gradient(150deg, var(--bg-a), var(--bg-b));
+}
+
+.page {
+  width: min(960px, 92vw);
+  margin: 0 auto;
+  padding: 48px 0 72px;
+}
+
+.panel {
+  background: color-mix(in srgb, var(--card) 92%, #ffffff 8%);
+  border: 1px solid var(--line);
+  border-radius: 20px;
+  padding: 28px;
+  box-shadow: 0 20px 60px rgba(35, 46, 42, 0.12);
+}
+
+.eyebrow {
+  margin: 0;
+  letter-spacing: 0.08em;
+  color: var(--accent-2);
+  font-size: 12px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+h1 {
+  margin: 6px 0 4px;
+  font-size: clamp(28px, 5vw, 40px);
+  line-height: 1.1;
+}
+
+.sub {
+  margin: 0;
+  color: var(--muted);
+}
+
+.controls {
+  margin-top: 22px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 12px;
+}
+
+label {
+  font-weight: 700;
+}
+
+select,
+button {
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 11px 13px;
+  font-size: 15px;
+}
+
+select {
+  min-width: 100px;
+  background: white;
+}
+
+button {
+  background: var(--accent);
+  color: #fff;
+  border-color: transparent;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+button:disabled {
+  opacity: 0.65;
+  cursor: wait;
+}
+
+.status {
+  min-height: 24px;
+  margin: 14px 0 0;
+  color: var(--muted);
+}
+
+.word-list {
+  list-style: none;
+  margin: 10px 0 0;
+  padding: 0;
+  display: grid;
+  gap: 10px;
+}
+
+.word-item {
+  background: #ffffff;
+  border: 1px solid var(--line);
+  border-left: 6px solid var(--accent);
+  border-radius: 12px;
+  padding: 12px;
+}
+
+.word-top {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+}
+
+.jp {
+  font-size: 24px;
+  font-weight: 800;
+}
+
+.kana {
+  color: var(--muted);
+  font-size: 14px;
+}
+
+.meaning {
+  margin-top: 6px;
+  font-size: 16px;
+}
+
+@media (max-width: 640px) {
+  .panel {
+    padding: 20px;
+  }
+
+  .controls {
+    flex-direction: column;
+    align-items: stretch;
+  }
+}

@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JLPT Random Words</title>
+    <link rel="stylesheet" href="./styles.css" />
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+    <script src="./config.js"></script>
+    <script src="./app.js" defer></script>
+  </head>
+  <body>
+    <main class="page">
+      <section class="panel">
+        <p class="eyebrow">JP Study</p>
+        <h1>JLPT 랜덤 단어</h1>
+        <p class="sub">
+          난이도를 선택하면 해당 레벨에서 랜덤 단어 5개를 보여줍니다.
+        </p>
+
+        <div class="controls">
+          <label for="levelSelect">난이도</label>
+          <select id="levelSelect">
+            <option value="N1">N1</option>
+            <option value="N2">N2</option>
+            <option value="N3">N3</option>
+            <option value="N4">N4</option>
+            <option value="N5">N5</option>
+          </select>
+          <button id="loadButton" type="button">랜덤 5개 가져오기</button>
+        </div>
+
+        <p id="status" class="status"></p>
+        <ul id="wordList" class="word-list"></ul>
+      </section>
+    </main>
+  </body>
+</html>
