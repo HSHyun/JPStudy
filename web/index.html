@@ -3,36 +3,95 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>JLPT Random Words</title>
+    <title>JPStudy</title>
     <link rel="stylesheet" href="./styles.css" />
-    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
-    <script src="./config.js"></script>
-    <script src="./app.js" defer></script>
   </head>
-  <body>
-    <main class="page">
-      <section class="panel">
-        <p class="eyebrow">JP Study</p>
-        <h1>JLPT 랜덤 단어</h1>
-        <p class="sub">
-          난이도를 선택하면 해당 레벨에서 랜덤 단어 5개를 보여줍니다.
-        </p>
 
+  <body>
+    <main class="auth-screen" id="authScreen">
+      <section class="auth-card">
+
+        <h1>단어장</h1>
+        <p class="sub">개인 일본어 단어장</p>
+
+        <div class="auth-form">
+          <label>
+            <span>이메일</span>
+            <input
+              id="authEmail"
+              type="email"
+              placeholder="example@email.com"
+              autocomplete="email"
+            />
+          </label>
+
+          <label>
+            <span>비밀번호</span>
+            <input
+              id="authPassword"
+              type="password"
+              placeholder="6자 이상 입력"
+              autocomplete="current-password"
+            />
+          </label>
+
+          <button id="signInButton" type="button" class="secondary-button">
+            로그인
+          </button>
+
+          <button id="signUpButton" type="button" class="primary-button">
+            회원가입
+          </button>
+
+        
+        </div>
+
+        <p id="authStatus" class="auth-status"></p>
+      </section>
+    </main>
+
+    <main class="app-shell" id="appShell" hidden>
+      <header class="app-header">
+        <div>
+          <div class="eyebrow">JLPT Vocabulary</div>
+          <h1>JPStudy</h1>
+          <p class="sub">오늘 외울 일본어 단어를 랜덤으로 확인하세요.</p>
+        </div>
+
+        <div class="user-card">
+          <span id="userEmail"></span>
+          <button id="signOutButton" type="button" class="secondary-button small">
+            로그아웃
+          </button>
+        </div>
+      </header>
+
+      <section class="study-panel">
         <div class="controls">
-          <label for="levelSelect">난이도</label>
-          <select id="levelSelect">
-            <option value="N1">N1</option>
-            <option value="N2">N2</option>
-            <option value="N3">N3</option>
-            <option value="N4">N4</option>
-            <option value="N5">N5</option>
-          </select>
-          <button id="loadButton" type="button">랜덤 5개 가져오기</button>
+          <label for="levelSelect">
+            <span>레벨 선택</span>
+            <select id="levelSelect">
+              <option value="N5">N5</option>
+              <option value="N4">N4</option>
+              <option value="N3">N3</option>
+              <option value="N2">N2</option>
+              <option value="N1">N1</option>
+            </select>
+          </label>
+
+          <button id="loadButton" type="button" class="primary-button">
+            랜덤 단어 불러오기
+          </button>
         </div>
 
         <p id="status" class="status"></p>
-        <ul id="wordList" class="word-list"></ul>
       </section>
+
+      <ul id="wordList" class="word-list"></ul>
     </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+    <script src="./config.js"></script>
+    <script src="./app.js"></script>
   </body>
 </html>

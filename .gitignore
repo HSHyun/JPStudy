@@ -1,7 +1,10 @@
 .venv/
 .env
+.env.local
 
 test.py
 test.txt
 
 **/.DS_Store
+node_modules/
+data/
