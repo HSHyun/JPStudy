@@ -53,9 +53,8 @@
     <main class="app-shell" id="appShell" hidden>
       <header class="app-header">
         <div>
-          <div class="eyebrow">JLPT Vocabulary</div>
-          <h1>JPStudy</h1>
-          <p class="sub">오늘 외울 일본어 단어를 랜덤으로 확인하세요.</p>
+          <div class="eyebrow">日本語単語帳</div>
+          <h1>일본어 단어장</h1>
         </div>
 
         <div class="user-card">
@@ -66,28 +65,90 @@
         </div>
       </header>
 
-      <section class="study-panel">
-        <div class="controls">
-          <label for="levelSelect">
-            <span>레벨 선택</span>
-            <select id="levelSelect">
-              <option value="N5">N5</option>
-              <option value="N4">N4</option>
-              <option value="N3">N3</option>
-              <option value="N2">N2</option>
-              <option value="N1">N1</option>
-            </select>
-          </label>
-
-          <button id="loadButton" type="button" class="primary-button">
-            랜덤 단어 불러오기
+      <section class="study-panel" id="dashboardPanel">
+        <div class="dashboard-actions">
+          <button id="continueButton" type="button" class="primary-button">
+            이어하기
+          </button>
+          <button id="showNewStudyButton" type="button" class="secondary-button">
+            새로 시작하기
           </button>
         </div>
 
-        <p id="status" class="status"></p>
+        <div id="levelStats" class="level-stats"></div>
+
+        <div class="new-study-form" id="newStudyForm" hidden>
+          <div class="controls">
+            <label for="levelSelect">
+              <span>레벨 선택</span>
+              <select id="levelSelect">
+                <option value="N5">N5</option>
+                <option value="N4">N4</option>
+                <option value="N3">N3</option>
+                <option value="N2">N2</option>
+                <option value="N1">N1</option>
+              </select>
+            </label>
+
+            <label for="wordCountInput">
+              <span>단어 수</span>
+              <input
+                id="wordCountInput"
+                type="number"
+                min="1"
+                max="100"
+                step="1"
+                value="20"
+                inputmode="numeric"
+              />
+            </label>
+
+            <button id="createSessionButton" type="button" class="primary-button">
+              시작
+            </button>
+          </div>
+        </div>
+
+        <div class="dashboard-footer">
+          <p id="status" class="status"></p>
+        </div>
       </section>
 
-      <ul id="wordList" class="word-list"></ul>
+      <section class="history-panel" id="historyPanel">
+        <div class="section-heading">
+          <div>
+            <h2>학습 기록</h2>
+          </div>
+        </div>
+
+        <ul id="sessionList" class="session-list"></ul>
+      </section>
+
+      <section class="session-panel" id="sessionPanel" hidden>
+        <div>
+          <div class="eyebrow">Study Session</div>
+          <h2 id="sessionTitle">학습 단어</h2>
+        </div>
+
+        <button id="backToDashboardButton" type="button" class="secondary-button small">
+          목록으로
+        </button>
+      </section>
+
+      <section class="card-study" id="cardStudy" hidden>
+        <p id="cardProgress" class="card-progress"></p>
+
+        <article id="wordCard" class="word-card"></article>
+
+        <div class="card-controls">
+          <button id="prevCardButton" type="button" class="secondary-button">
+            이전
+          </button>
+          <button id="nextCardButton" type="button" class="primary-button">
+            다음
+          </button>
+        </div>
+      </section>
     </main>
 
     <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
