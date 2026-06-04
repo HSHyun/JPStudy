@@ -3,6 +3,7 @@ const config = window.APP_CONFIG ?? {};
 const SUPABASE_URL = config.SUPABASE_URL;
 const SUPABASE_ANON_KEY = config.SUPABASE_ANON_KEY;
 const DEFAULT_LIMIT = Number(config.DEFAULT_LIMIT ?? 20);
+const WORD_INDEX_STORAGE_PREFIX = "jpstudy:wordIndex";
 
 const authScreen = document.getElementById("authScreen");
 const appShell = document.getElementById("appShell");
@@ -36,7 +37,7 @@ const prevCardButton = document.getElementById("prevCardButton");
 const nextCardButton = document.getElementById("nextCardButton");
 
 if (!SUPABASE_URL || !SUPABASE_ANON_KEY) {
-  throw new Error("Missing APP_CONFIG. Check web/config.js");
+  throw new Error("Missing application configuration.");
 }
 
 wordCountInput.value = String(DEFAULT_LIMIT);
@@ -50,6 +51,7 @@ let currentUser = null;
 let currentSessionId = null;
 let currentWords = [];
 let currentWordIndex = 0;
+let isStudyLoading = false;
 
 const ENTRY_TYPE_LABELS = {
   noun: "명사",
@@ -61,13 +63,7 @@ const ENTRY_TYPE_LABELS = {
 };
 
 const JLPT_LEVELS = ["N5", "N4", "N3", "N2", "N1"];
-const JLPT_TOTAL_WORDS = {
-  N5: 552,
-  N4: 957,
-  N3: 1616,
-  N2: 2038,
-  N1: 2133,
-};
+let levelWordTotals = createEmptyLevelTotals();
 
 function showAuthScreen() {
   authScreen.hidden = false;
@@ -75,14 +71,6 @@ function showAuthScreen() {
 
   authScreen.style.display = "grid";
   appShell.style.display = "none";
-}
-
-function showAppScreen() {
-  authScreen.hidden = true;
-  appShell.hidden = false;
-
-  authScreen.style.display = "none";
-  appShell.style.display = "block";
 }
 
 function showDashboard() {
@@ -94,14 +82,6 @@ function showDashboard() {
   sessionPanel.hidden = true;
   cardStudy.hidden = true;
   wordCard.innerHTML = "";
-}
-
-function showStudySession(level, count) {
-  dashboardPanel.hidden = true;
-  historyPanel.hidden = true;
-  sessionPanel.hidden = false;
-  cardStudy.hidden = false;
-  sessionTitle.textContent = `${level} 학습 단어 ${count}개`;
 }
 
 function setStatus(message) {
@@ -119,35 +99,39 @@ function setAuthLoading(isLoading) {
 }
 
 function setStudyLoading(isLoading) {
+  isStudyLoading = isLoading;
   continueButton.disabled = isLoading;
   showNewStudyButton.disabled = isLoading;
   createSessionButton.disabled = isLoading;
   backToDashboardButton.disabled = isLoading;
+
+  for (const button of sessionList.querySelectorAll(".session-resume-button")) {
+    button.disabled = isLoading;
+  }
 }
 
-function formatDateTime(value) {
-  return new Intl.DateTimeFormat("ko-KR", {
-    dateStyle: "medium",
-    timeStyle: "short",
-  }).format(new Date(value));
+function createEmptyLevelTotals(defaultValue = 0) {
+  return Object.fromEntries(JLPT_LEVELS.map((level) => [level, defaultValue]));
 }
 
-function getRowLevel(rows) {
-  return rows[0]?.level ?? "-";
-}
-
-function getEntryTypeLabel(row) {
-  return ENTRY_TYPE_LABELS[row.entry_type] ?? row.section ?? row.entry_type ?? "";
-}
-
-function getStudyLimit() {
-  const value = Number.parseInt(wordCountInput.value, 10);
-
-  if (!Number.isInteger(value) || value < 1 || value > 100) {
-    throw new Error("단어 수는 1개 이상 100개 이하로 입력하세요.");
+function readRowArray(data) {
+  if (!Array.isArray(data)) {
+    throw new Error("Expected row array response.");
   }
 
-  return value;
+  return data;
+}
+
+function saveCurrentWordIndex() {
+  if (!currentUser?.id || !currentSessionId || currentWords.length === 0) return;
+
+  const storageKey = `${WORD_INDEX_STORAGE_PREFIX}:${currentUser.id}:${currentSessionId}`;
+
+  try {
+    localStorage.setItem(storageKey, String(currentWordIndex));
+  } catch (err) {
+    console.error(err);
+  }
 }
 
 function getAuthInput() {
@@ -169,16 +153,24 @@ function getAuthInput() {
   return { email, password };
 }
 
-async function updateAuthUI(session) {
+async function updateAuthUI(session, { resetView = true } = {}) {
   currentUser = session?.user ?? null;
 
   if (currentUser) {
-    showAppScreen();
-    showDashboard();
+    authScreen.hidden = true;
+    appShell.hidden = false;
+    authScreen.style.display = "none";
+    appShell.style.display = "block";
+
     userEmail.textContent = `${currentUser.email} 로그인 중`;
     setAuthStatus("");
-    setStatus("학습 기록을 불러오는 중...");
-    await loadStudyHistory();
+
+    if (resetView) {
+      showDashboard();
+      setStatus("학습 기록을 불러오는 중...");
+      await loadStudyHistory();
+    }
+
     return;
   }
 
@@ -194,11 +186,20 @@ async function updateAuthUI(session) {
 }
 
 async function signUp() {
+  let authInput;
+
+  try {
+    authInput = getAuthInput();
+  } catch (err) {
+    setAuthStatus(err.message ?? "입력값을 확인하세요.");
+    return;
+  }
+
   setAuthLoading(true);
   setAuthStatus("회원가입 중...");
 
   try {
-    const { email, password } = getAuthInput();
+    const { email, password } = authInput;
 
     const { data, error } = await supabaseClient.auth.signUp({
       email,
@@ -209,7 +210,7 @@ async function signUp() {
 
     if (!data.session) {
       setAuthStatus(
-        "회원가입은 되었지만 바로 로그인되지 않았습니다. Supabase에서 Confirm Email이 꺼져 있는지 확인하세요."
+        "회원가입은 되었지만 바로 로그인되지 않았습니다."
       );
       return;
     }
@@ -217,18 +218,27 @@ async function signUp() {
     await updateAuthUI(data.session);
   } catch (err) {
     console.error(err);
-    setAuthStatus(err.message ?? "회원가입 실패");
+    setAuthStatus("회원가입에 실패했습니다.");
   } finally {
     setAuthLoading(false);
   }
 }
 
 async function signIn() {
+  let authInput;
+
+  try {
+    authInput = getAuthInput();
+  } catch (err) {
+    setAuthStatus(err.message ?? "입력값을 확인하세요.");
+    return;
+  }
+
   setAuthLoading(true);
   setAuthStatus("로그인 중...");
 
   try {
-    const { email, password } = getAuthInput();
+    const { email, password } = authInput;
 
     const { data, error } = await supabaseClient.auth.signInWithPassword({
       email,
@@ -237,24 +247,16 @@ async function signIn() {
 
     if (error) throw error;
 
-    let session = data.session;
+    const session = data.session;
 
     if (!session) {
-      const sessionResult = await supabaseClient.auth.getSession();
-
-      if (sessionResult.error) throw sessionResult.error;
-
-      session = sessionResult.data.session;
-    }
-
-    if (!session) {
-      throw new Error("로그인은 성공했지만 세션을 가져오지 못했습니다.");
+      throw new Error("Missing signed-in session.");
     }
 
     await updateAuthUI(session);
   } catch (err) {
     console.error(err);
-    setAuthStatus(err.message ?? "로그인 실패");
+    setAuthStatus("로그인에 실패했습니다.");
   } finally {
     setAuthLoading(false);
   }
@@ -272,7 +274,7 @@ async function signOut() {
     setAuthStatus("로그아웃되었습니다.");
   } catch (err) {
     console.error(err);
-    setAuthStatus(err.message ?? "로그아웃 실패");
+    setAuthStatus("로그아웃에 실패했습니다.");
   } finally {
     setAuthLoading(false);
   }
@@ -297,7 +299,8 @@ function renderCurrentWord() {
   }
 
   const row = currentWords[currentWordIndex];
-  const typeLabel = getEntryTypeLabel(row);
+  const typeLabel =
+    ENTRY_TYPE_LABELS[row.entry_type] ?? row.section ?? row.entry_type ?? "";
 
   if (typeLabel) {
     const typeBadge = createTextElement("div", "word-type", typeLabel);
@@ -342,97 +345,106 @@ function renderCurrentWord() {
   nextCardButton.disabled = false;
 }
 
-function renderStudyHistory(sessions) {
-  sessionList.innerHTML = "";
-  renderLevelStats(sessions);
-
-  if (sessions.length === 0) {
-    const empty = document.createElement("li");
-    empty.className = "session-empty";
-    empty.textContent = "아직 학습 기록이 없습니다.";
-    sessionList.appendChild(empty);
-    return;
-  }
-
-  for (const session of sessions) {
-    const li = document.createElement("li");
-    li.className = "session-row";
-
-    const meta = document.createElement("div");
-    meta.className = "session-meta";
-
-    const title = createTextElement(
-      "strong",
-      "session-title",
-      `${session.level} · ${session.word_count}개`
-    );
-    const createdAt = createTextElement(
-      "span",
-      "session-date",
-      formatDateTime(session.created_at)
-    );
-
-    meta.appendChild(title);
-    meta.appendChild(createdAt);
-
-    if (session.is_recent) {
-      meta.appendChild(createTextElement("span", "session-badge", "24시간 이내"));
-    }
-
-    const button = document.createElement("button");
-    button.className = "secondary-button small";
-    button.type = "button";
-    button.textContent = "이어하기";
-    button.addEventListener("click", () => resumeSession(session.session_id));
-
-    li.appendChild(meta);
-    li.appendChild(button);
-    sessionList.appendChild(li);
-  }
-}
-
-function renderLevelStats(sessions) {
-  const studiedTotals = Object.fromEntries(
-    JLPT_LEVELS.map((level) => [level, 0])
-  );
-
-  for (const session of sessions) {
-    studiedTotals[session.level] =
-      (studiedTotals[session.level] ?? 0) + Number(session.word_count ?? 0);
-  }
-
-  levelStats.innerHTML = "";
-
-  for (const level of JLPT_LEVELS) {
-    const item = document.createElement("span");
-    item.className = "level-stat";
-
-    item.appendChild(createTextElement("span", "level-stat-level", `${level}:`));
-    item.appendChild(
-      createTextElement("span", "level-stat-studied", studiedTotals[level])
-    );
-    item.appendChild(createTextElement("span", "level-stat-separator", "/"));
-    item.appendChild(
-      createTextElement(
-        "span",
-        "level-stat-total",
-        JLPT_TOTAL_WORDS[level]
-      )
-    );
-    item.appendChild(createTextElement("span", "level-stat-unit", "개"));
-
-    levelStats.appendChild(item);
-  }
-}
-
 async function loadStudyHistory({ updateStatus = true } = {}) {
   try {
-    const { data, error } = await supabaseClient.rpc("list_study_sessions");
+    const [sessionsResult, totalsResult] = await Promise.all([
+      supabaseClient.rpc("list_study_sessions"),
+      supabaseClient.rpc("get_word_level_totals"),
+    ]);
 
-    if (error) throw error;
+    if (sessionsResult.error) throw sessionsResult.error;
+    if (totalsResult.error) throw totalsResult.error;
 
-    const sessions = Array.isArray(data) ? data : [];
-    renderStudyHistory(sessions);
+    const sessions = readRowArray(sessionsResult.data);
+    const totals = createEmptyLevelTotals(0);
+
+    for (const row of readRowArray(totalsResult.data)) {
+      if (JLPT_LEVELS.includes(row.level)) {
+        totals[row.level] = Number(row.word_count ?? 0);
+      }
+    }
+
+    levelWordTotals = totals;
+
+    const studiedTotals = createEmptyLevelTotals(0);
+
+    for (const session of sessions) {
+      studiedTotals[session.level] =
+        (studiedTotals[session.level] ?? 0) + Number(session.word_count ?? 0);
+    }
+
+    levelStats.innerHTML = "";
+
+    for (const level of JLPT_LEVELS) {
+      const item = document.createElement("span");
+      item.className = "level-stat";
+
+      item.appendChild(createTextElement("span", "level-stat-level", `${level}:`));
+      item.appendChild(
+        createTextElement("span", "level-stat-studied", studiedTotals[level])
+      );
+      item.appendChild(createTextElement("span", "level-stat-separator", "/"));
+      item.appendChild(
+        createTextElement("span", "level-stat-total", levelWordTotals[level])
+      );
+      item.appendChild(createTextElement("span", "level-stat-unit", "개"));
+
+      levelStats.appendChild(item);
+    }
+
+    sessionList.innerHTML = "";
+
+    if (sessions.length === 0) {
+      const empty = document.createElement("li");
+      empty.className = "session-empty";
+      empty.textContent = "아직 학습 기록이 없습니다.";
+      sessionList.appendChild(empty);
+    } else {
+      const dateTimeFormatter = new Intl.DateTimeFormat("ko-KR", {
+        dateStyle: "medium",
+        timeStyle: "short",
+      });
+
+      for (const session of sessions) {
+        const li = document.createElement("li");
+        li.className = "session-row";
+
+        const meta = document.createElement("div");
+        meta.className = "session-meta";
+
+        const title = createTextElement(
+          "strong",
+          "session-title",
+          `${session.level} · ${session.word_count}개`
+        );
+        const createdAt = createTextElement(
+          "span",
+          "session-date",
+          dateTimeFormatter.format(new Date(session.created_at))
+        );
+
+        meta.appendChild(title);
+        meta.appendChild(createdAt);
+
+        if (session.is_recent) {
+          meta.appendChild(
+            createTextElement("span", "session-badge", "24시간 이내")
+          );
+        }
+
+        const button = document.createElement("button");
+        button.className = "secondary-button small session-resume-button";
+        button.disabled = isStudyLoading;
+        button.type = "button";
+        button.textContent = "이어하기";
+        button.addEventListener("click", () => resumeSession(session.session_id));
+
+        li.appendChild(meta);
+        li.appendChild(button);
+        sessionList.appendChild(li);
+      }
+    }
+
     if (updateStatus) {
       setStatus(
         sessions.length > 0
@@ -442,19 +454,48 @@ async function loadStudyHistory({ updateStatus = true } = {}) {
     }
   } catch (err) {
     console.error(err);
-    setStatus("학습 기록을 불러오지 못했습니다. Supabase RPC를 확인하세요.");
+    setStatus("학습 기록을 불러오지 못했습니다.");
   }
 }
 
-async function openSession(rows) {
-  currentSessionId = rows[0]?.session_id ?? null;
+function openSession(rows) {
+  if (rows.length === 0) {
+    throw new Error("Cannot open an empty study session.");
+  }
+
+  currentSessionId = rows[0].session_id;
   currentWords = rows;
   currentWordIndex = 0;
-  showStudySession(getRowLevel(rows), rows.length);
+
+  if (currentUser?.id && currentSessionId) {
+    const storageKey = `${WORD_INDEX_STORAGE_PREFIX}:${currentUser.id}:${currentSessionId}`;
+
+    try {
+      const savedIndex = Number.parseInt(localStorage.getItem(storageKey), 10);
+
+      if (Number.isInteger(savedIndex)) {
+        currentWordIndex = Math.min(Math.max(savedIndex, 0), rows.length - 1);
+      }
+    } catch (err) {
+      console.error(err);
+    }
+  }
+
+  saveCurrentWordIndex();
+
+  dashboardPanel.hidden = true;
+  historyPanel.hidden = true;
+  sessionPanel.hidden = false;
+  cardStudy.hidden = false;
+  sessionTitle.textContent = `${rows[0].level} 학습 단어 ${rows.length}개`;
+
   renderCurrentWord();
+  return rows[0].level;
 }
 
 async function continueRecentSession() {
+  if (isStudyLoading) return;
+
   if (!currentUser) {
     showAuthScreen();
     return;
@@ -471,24 +512,31 @@ async function continueRecentSession() {
 
     if (error) throw error;
 
-    const rows = Array.isArray(data) ? data : [];
+    const rows = readRowArray(data);
 
     if (rows.length === 0) {
       setStatus("24시간 이내 진행 중인 학습이 없습니다. 새로 시작하세요.");
       return;
     }
 
-    await openSession(rows);
-    setStatus(`최근 ${getRowLevel(rows)} 학습을 이어갑니다.`);
+    const level = openSession(rows);
+    setStatus(`최근 ${level} 학습을 이어갑니다.`);
   } catch (err) {
     console.error(err);
-    setStatus("이어하기에 실패했습니다. Supabase RPC를 확인하세요.");
+    setStatus("이어하기에 실패했습니다.");
   } finally {
     setStudyLoading(false);
   }
 }
 
 async function resumeSession(sessionId) {
+  if (isStudyLoading) return;
+
+  if (!currentUser) {
+    showAuthScreen();
+    return;
+  }
+
   setStudyLoading(true);
   setStatus("학습 세션을 여는 중...");
 
@@ -499,30 +547,30 @@ async function resumeSession(sessionId) {
 
     if (error) throw error;
 
-    const rows = Array.isArray(data) ? data : [];
-    await openSession(rows);
-    setStatus(`${getRowLevel(rows)} 학습 기록을 열었습니다.`);
+    const rows = readRowArray(data);
+    const level = openSession(rows);
+    setStatus(`${level} 학습 기록을 열었습니다.`);
   } catch (err) {
     console.error(err);
-    setStatus("학습 세션을 열지 못했습니다. Supabase RPC를 확인하세요.");
+    setStatus("학습 세션을 열지 못했습니다.");
   } finally {
     setStudyLoading(false);
   }
 }
 
 async function createNewStudySession() {
+  if (isStudyLoading) return;
+
   if (!currentUser) {
     showAuthScreen();
     return;
   }
 
   const level = levelSelect.value;
-  let studyLimit;
+  const studyLimit = Number.parseInt(wordCountInput.value, 10);
 
-  try {
-    studyLimit = getStudyLimit();
-  } catch (err) {
-    setStatus(err.message);
+  if (!Number.isInteger(studyLimit) || studyLimit < 1 || studyLimit > 100) {
+    setStatus("단어 수는 1개 이상 100개 이하로 입력하세요.");
     return;
   }
 
@@ -538,7 +586,7 @@ async function createNewStudySession() {
 
     if (error) throw error;
 
-    const rows = Array.isArray(data) ? data : [];
+    const rows = readRowArray(data);
 
     if (rows.length === 0) {
       showDashboard();
@@ -546,14 +594,14 @@ async function createNewStudySession() {
       return;
     }
 
-    await openSession(rows);
+    openSession(rows);
     setStatus(
       `${level} 새 단어 ${rows.length}개를 배정했습니다.`
     );
     await loadStudyHistory({ updateStatus: false });
   } catch (err) {
     console.error(err);
-    setStatus("새 학습 생성에 실패했습니다. Supabase RPC를 확인하세요.");
+    setStatus("새 학습을 시작하지 못했습니다.");
   } finally {
     setStudyLoading(false);
   }
@@ -570,12 +618,13 @@ async function initAuth() {
     await updateAuthUI(data.session);
 
     supabaseClient.auth.onAuthStateChange((_event, session) => {
-      updateAuthUI(session);
+      const isSameUser = currentUser?.id === session?.user?.id;
+      updateAuthUI(session, { resetView: !isSameUser });
     });
   } catch (err) {
     console.error(err);
     showAuthScreen();
-    setAuthStatus("로그인 상태 확인 실패");
+    setAuthStatus("로그인 상태를 확인하지 못했습니다.");
   } finally {
     setAuthLoading(false);
   }
@@ -590,20 +639,30 @@ showNewStudyButton.addEventListener("click", () => {
 });
 createSessionButton.addEventListener("click", createNewStudySession);
 backToDashboardButton.addEventListener("click", async () => {
-  showDashboard();
-  await loadStudyHistory();
+  if (isStudyLoading) return;
+
+  setStudyLoading(true);
+
+  try {
+    showDashboard();
+    await loadStudyHistory();
+  } finally {
+    setStudyLoading(false);
+  }
 });
 prevCardButton.addEventListener("click", () => {
   if (currentWords.length === 0) return;
 
   currentWordIndex =
     (currentWordIndex - 1 + currentWords.length) % currentWords.length;
+  saveCurrentWordIndex();
   renderCurrentWord();
 });
 nextCardButton.addEventListener("click", () => {
   if (currentWords.length === 0) return;
 
   currentWordIndex = (currentWordIndex + 1) % currentWords.length;
+  saveCurrentWordIndex();
   renderCurrentWord();
 });
 
